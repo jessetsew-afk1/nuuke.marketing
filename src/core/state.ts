@@ -20,7 +20,7 @@ export const events = new Emitter();
 export const state = {
   w: window.innerWidth,
   h: window.innerHeight,
-  dpr: Math.min(window.devicePixelRatio || 1, 2),
+  dpr: Math.min(window.devicePixelRatio || 1, 1.5),
   isTouch: matchMedia('(hover: none), (pointer: coarse)').matches,
   reducedMotion: matchMedia('(prefers-reduced-motion: reduce)').matches,
   mouse: {
@@ -45,7 +45,7 @@ export const isMd = () => state.w >= 768;
 window.addEventListener('resize', () => {
   state.w = window.innerWidth;
   state.h = window.innerHeight;
-  state.dpr = Math.min(window.devicePixelRatio || 1, 2);
+  state.dpr = Math.min(window.devicePixelRatio || 1, 1.5);
   events.emit('resize');
 });
 

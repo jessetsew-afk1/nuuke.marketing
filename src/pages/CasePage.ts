@@ -133,9 +133,9 @@ export class CasePage implements Page {
       header.classList.toggle('is-hidden', hide);
       label.classList.toggle('is-hidden', hide);
     });
+    // runs first each frame, so scroll-linked visuals and WebGL read the same position
     const raf = (t: number) => lenis.raf(t * 1000);
-    gsap.ticker.add(raf);
-    gsap.ticker.lagSmoothing(0);
+    gsap.ticker.add(raf, false, true);
     this.tickers.push(raf);
 
     this.scene.set([
@@ -144,7 +144,12 @@ export class CasePage implements Page {
     ]);
 
     this.animateHero();
-    this.animateSections();
+    // build the scroll animations after the page transition has settled
+    window.setTimeout(() => {
+      if (!this.el.isConnected) return;
+      this.animateSections();
+      ScrollTrigger.refresh();
+    }, 700);
     this.initReels();
     this.initNext();
   }
@@ -198,26 +203,18 @@ export class CasePage implements Page {
     );
 
     // documents: fly in tilted, settle as you scroll, parallax per card
+    // One timeline per card driven by a single ScrollTrigger (settle, then drift),
+    // so no two animations ever fight over the same property.
     $$('.js-doc', el).forEach((d, i) => {
       const r = parseFloat(getComputedStyle(d).getPropertyValue('--r')) || 0;
-      gsap.fromTo(
-        d,
-        { rotateX: 38, rotateZ: r * 3, y: 160, opacity: 0, z: -200, transformPerspective: 1400 },
-        {
-          rotateX: 6,
-          rotateZ: r,
-          y: 0,
-          z: 0,
-          opacity: 1,
-          ease: 'power2.out',
-          scrollTrigger: { trigger: d, start: 'top 105%', end: 'top 45%', scrub: 0.8 },
-        },
-      );
-      gsap.to(d, {
-        y: -40 - (i % 3) * 30,
-        ease: 'none',
-        scrollTrigger: { trigger: d, start: 'top 45%', end: 'bottom top', scrub: true },
-      });
+      gsap
+        .timeline({ scrollTrigger: { trigger: d, start: 'top bottom', end: 'bottom top', scrub: true } })
+        .fromTo(
+          d,
+          { rotateX: 38, rotateZ: r * 3, y: 160, opacity: 0, transformPerspective: 1400, force3D: true },
+          { rotateX: 6, rotateZ: r, y: 0, opacity: 1, ease: 'power2.out', duration: 0.45 },
+        )
+        .to(d, { y: -40 - (i % 3) * 30, ease: 'none', duration: 0.55 });
     });
 
     // blueprint plane leans back as it scrolls through

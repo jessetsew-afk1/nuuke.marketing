@@ -38,6 +38,9 @@ class GL {
   private transitioning = false;
   private last = performance.now();
   private elapsed = 0;
+  private warmRT: THREE.WebGLRenderTarget | null = null;
+  private frameAvg = 16;
+  private frames = 0;
   ok = true;
 
   init() {
@@ -59,6 +62,8 @@ class GL {
     this.renderer.setClearColor(0xe7e7e7, 1);
     this.renderer.shadowMap.enabled = true;
     this.renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+    // the only shadow-casting scene is static: scenes bake shadows on demand
+    this.renderer.shadowMap.autoUpdate = false;
 
     this.fluid = new Fluid();
     globalUniforms.u_fluid.value = this.fluid.texture;
@@ -116,7 +121,11 @@ class GL {
     this.postScene.add(new THREE.Mesh(new THREE.PlaneGeometry(2, 2), this.mixMat));
 
     events.on('resize', () => this.resize());
-    this.renderer.setAnimationLoop(this.tick);
+    // One clock for everything: smooth scroll (registered with priority by
+    // pages), DOM animations and WebGL all advance in the same frame, so 3D
+    // objects never drift a frame behind the page.
+    gsap.ticker.lagSmoothing(0);
+    gsap.ticker.add(this.tick);
   }
 
   resize() {
@@ -162,10 +171,38 @@ class GL {
     });
   }
 
+  /**
+   * Renders a scene once off-screen so its shaders compile and textures
+   * upload before the visitor navigates to it (no hitch mid-transition).
+   */
+  prewarm(scene: Scene3D) {
+    if (!this.ok || scene === this.current || scene === this.prev) return;
+    this.warmRT ??= new THREE.WebGLRenderTarget(64, 64);
+    scene.resize();
+    scene.update(0.016, this.elapsed);
+    scene.render(this.renderer, this.warmRT);
+    this.renderer.setRenderTarget(null);
+  }
+
+  /** Drops the pixel ratio if the device can't keep up (never raises it). */
+  private adapt(frameMs: number) {
+    this.frameAvg = this.frameAvg * 0.95 + frameMs * 0.05;
+    this.frames++;
+    if (this.frames < 120 || this.transitioning || document.hidden) return;
+    if (this.frameAvg > 24 && state.dpr > 1) {
+      state.dpr = Math.max(1, state.dpr - 0.25);
+      this.frames = 0;
+      this.frameAvg = 16;
+      events.emit('resize');
+    }
+  }
+
   private tick = () => {
     const now = performance.now();
-    const dt = Math.min(0.05, (now - this.last) / 1000);
+    const raw = now - this.last;
+    const dt = Math.min(0.05, raw / 1000);
     this.last = now;
+    if (raw < 200) this.adapt(raw);
     this.elapsed += dt;
     globalUniforms.u_time.value = this.elapsed;
 

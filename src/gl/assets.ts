@@ -1,4 +1,5 @@
 import * as THREE from 'three';
+import { gl } from './gl';
 
 const cache = new Map<string, Promise<THREE.Texture>>();
 const loader = new THREE.TextureLoader();
@@ -25,6 +26,8 @@ export const loadTexture = (url: string) => {
             tex.minFilter = THREE.LinearMipmapLinearFilter;
             tex.generateMipmaps = true;
             tex.anisotropy = 4;
+            // upload now, spread across loading, rather than on first render
+            if (gl.ok && gl.renderer) gl.renderer.initTexture(tex);
             res(tex);
           },
           undefined,

@@ -258,7 +258,7 @@ export const reels = (p: Project) => {
         .map(
           (im) => `
         <figure class="reel">
-          <div class="reel__screen"><img src="${esc(im.url)}" alt="${esc(im.alt)}" loading="lazy" /></div>
+          <div class="reel__screen"><img src="${esc(im.url)}" alt="${esc(im.alt)}" loading="lazy" decoding="async" /></div>
           <figcaption><b>@${esc(p.slug)}</b><span>${esc(p.title)}</span></figcaption>
         </figure>`,
         )
@@ -292,7 +292,7 @@ export const adVariants = (p: Project) => {
         return `
         <article class="ad js-doc ${i === winner ? 'is-winner' : ''}" style="--r:${[-4, -1.5, 1.5, 4][i]}deg">
           <div class="ad__bar"><i></i><b>${esc(p.client.toLowerCase().replace(/\s+/g, ''))}</b><span>Sponsored</span></div>
-          <div class="ad__media"><img src="${esc(p.images[(i + 1) % p.images.length].url)}" alt="" loading="lazy" /><span class="ad__tag">Variant ${String.fromCharCode(65 + i)}</span></div>
+          <div class="ad__media"><img src="${esc(p.images[(i + 1) % p.images.length].url)}" alt="" loading="lazy" decoding="async" /><span class="ad__tag">Variant ${String.fromCharCode(65 + i)}</span></div>
           <p class="ad__copy">${esc(copy)}</p>
           <div class="ad__cta"><span>${esc(product)}</span><button type="button" tabindex="-1">${cta}</button></div>
           <div class="ad__stats"><span>CTR ${ctr}%</span><span>CPA $${cpa}</span>${i === winner ? '<em>Winner</em>' : ''}</div>
@@ -382,7 +382,7 @@ export const productionDocs = (p: Project) => {
       </article>
       <div class="moodboard">${p.images
         .slice(0, 6)
-        .map((im, i) => `<figure class="js-doc" style="--r:${[-6, 4, -2, 5, -4, 2][i]}deg"><img src="${esc(im.url)}" alt="${esc(im.alt)}" loading="lazy" /></figure>`)
+        .map((im, i) => `<figure class="js-doc" style="--r:${[-6, 4, -2, 5, -4, 2][i]}deg"><img src="${esc(im.url)}" alt="${esc(im.alt)}" loading="lazy" decoding="async" /></figure>`)
         .join('')}</div>
     </div>`;
 };
@@ -428,7 +428,7 @@ export const mosaicHTML = (p: Project) => {
   return `
     <section class="cs-mosaic" aria-label="${esc(p.client)} imagery">
       <div class="cs-mosaic__plane">${imgs
-        .map((im) => `<figure><img src="${esc(im.url)}" alt="${esc(im.alt)}" loading="lazy" /></figure>`)
+        .map((im) => `<figure><img src="${esc(im.url)}" alt="${esc(im.alt)}" loading="lazy" decoding="async" /></figure>`)
         .join('')}</div>
     </section>`;
 };

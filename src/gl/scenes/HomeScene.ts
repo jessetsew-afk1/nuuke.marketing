@@ -24,7 +24,7 @@ const noiseGlsl = /* glsl */ `
     vec2 u = f * f * (3. - 2. * f);
     return mix(mix(hash(i), hash(i + vec2(1, 0)), u.x), mix(hash(i + vec2(0, 1)), hash(i + vec2(1, 1)), u.x), u.y);
   }
-  float fbm(vec2 p) { float v = 0., a = .5; for (int i = 0; i < 5; i++) { v += a * noise(p); p *= 2.03; a *= .5; } return v; }
+  float fbm(vec2 p) { float v = 0., a = .5; for (int i = 0; i < 4; i++) { v += a * noise(p); p *= 2.03; a *= .5; } return v; }
 `;
 
 const logoVert = /* glsl */ `
@@ -132,11 +132,12 @@ export class HomeScene implements Scene3D {
   private tmpLook = new THREE.Vector3();
   private anchor = new THREE.Vector3();
   introPlayed = false;
+  private shadowsBaked = false;
 
   constructor() {
     this.scene.background = new THREE.Color(FOG);
     this.scene.fog = new THREE.Fog(FOG, 30, 150);
-    this.rt = new THREE.WebGLRenderTarget(4, 4, { samples: 4 });
+    this.rt = new THREE.WebGLRenderTarget(4, 4, { samples: 2 });
     this.postMat = new THREE.ShaderMaterial({
       uniforms: { tScene: { value: null }, uAspect: { value: 1 }, u_time: globalUniforms.u_time },
       vertexShader: /* glsl */ `varying vec2 vUv; void main(){ vUv = uv; gl_Position = vec4(position.xy, 0., 1.); }`,
@@ -550,8 +551,8 @@ export class HomeScene implements Scene3D {
       const big = 190;
       const cx = c.width / 2;
       // small uppercase intro line
-      g.font = `500 30px "Inter Tight Variable", "Helvetica Neue", Arial, sans-serif`;
-      (g as any).letterSpacing = '1px';
+      g.font = `500 38px "Inter Tight Variable", "Helvetica Neue", Arial, sans-serif`;
+      (g as any).letterSpacing = '1.5px';
       g.fillText('A SOCIAL-FIRST MARKETING STUDIO', cx, 70);
       // serif line
       g.font = `400 ${big}px "Playfair Display", Georgia, serif`;
@@ -614,7 +615,7 @@ export class HomeScene implements Scene3D {
 
   /** Screen position (CSS px) just below the floating headline, for the CTA pill. */
   ctaPosition() {
-    this.anchor.set(this.logo.position.x, this.logo.position.y - this.logo.scale.y * (HEAD_H / HEAD_W) * 0.5 - 0.45, this.logo.position.z);
+    this.anchor.set(this.logo.position.x, this.logo.position.y - this.logo.scale.y * (HEAD_H / HEAD_W) * 0.5 - 0.62, this.logo.position.z);
     this.anchor.project(this.cam);
     return { x: (this.anchor.x * 0.5 + 0.5) * state.w, y: (-this.anchor.y * 0.5 + 0.5) * state.h };
   }
@@ -652,6 +653,11 @@ export class HomeScene implements Scene3D {
   }
 
   render(renderer: THREE.WebGLRenderer, target: THREE.WebGLRenderTarget | null) {
+    if (!this.shadowsBaked) {
+      // everything that casts a shadow here is static: bake once
+      renderer.shadowMap.needsUpdate = true;
+      this.shadowsBaked = true;
+    }
     renderer.setRenderTarget(this.rt);
     renderer.render(this.scene, this.cam);
     this.postMat.uniforms.tScene.value = this.rt.texture;
@@ -670,7 +676,7 @@ export class HomeScene implements Scene3D {
     const res = state.w < 768 ? 0.5 : 0.6;
     this.water.getRenderTarget().setSize(Math.round(state.w * state.dpr * res), Math.round(state.h * state.dpr * res));
     // scale the logo so it reads well at every aspect
-    const s = state.w / state.h < 1 ? 5.2 : 7.4;
+    const s = state.w / state.h < 1 ? 6.3 : 9;
     this.logo.scale.set(s, s, 1);
   }
 }
