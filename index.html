@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>NUUKE® – Social-first marketing studio</title>
+    <meta
+      name="description"
+      content="NUUKE is a social-first marketing studio: paid ads, UGC, content creation, branding and influencer campaigns that turn attention into revenue."
+    />
+    <link rel="icon" type="image/png" href="/brand/nuuke-logo.png" />
+    <meta name="theme-color" content="#212121" />
+  </head>
+  <body class="is-loading">
+    <canvas id="gl" aria-hidden="true"></canvas>
+    <div class="grain" aria-hidden="true"></div>
+    <div class="vignette" aria-hidden="true"></div>
+
+    <header class="header">
+      <a href="/" class="header__logo" data-link aria-label="NUUKE home">
+        <span class="logo-mark"></span>
+      </a>
+      <nav class="header__nav" aria-label="Primary">
+        <a href="/" data-link data-roll>Index</a>
+        <a href="/projects" data-link data-roll>Projects</a>
+        <a href="/contact" data-link data-roll>Contact</a>
+      </nav>
+      <button class="menu-toggle" type="button" aria-label="Toggle menu" aria-expanded="false">
+        <span class="menu-toggle__bg"></span>
+        <span class="menu-toggle__fill"></span>
+        <span class="menu-toggle__icon"><i></i><i></i></span>
+        <span class="menu-toggle__x"></span>
+      </button>
+    </header>
+
+    <div class="menu" aria-hidden="true">
+      <div class="menu__overlay"></div>
+      <div class="menu__panel">
+        <div class="menu__inner">
+          <nav class="menu__nav" aria-label="Menu">
+            <a class="menu__item" href="/" data-link><span class="menu__num">01</span><span class="menu__label"><span class="menu__text">Index</span><span class="menu__hover" aria-hidden="true">Index</span><span class="menu__underline"></span></span></a>
+            <a class="menu__item" href="/projects" data-link><span class="menu__num">02</span><span class="menu__label"><span class="menu__text">Projects</span><span class="menu__hover" aria-hidden="true">Projects</span><span class="menu__underline"></span></span></a>
+            <a class="menu__item" href="/contact" data-link><span class="menu__num">03</span><span class="menu__label"><span class="menu__text">Contact</span><span class="menu__hover" aria-hidden="true">Contact</span><span class="menu__underline"></span></span></a>
+            <a class="menu__item" href="/world" data-link><span class="menu__num">04</span><span class="menu__label"><span class="menu__text">World</span><span class="menu__hover" aria-hidden="true">World</span><span class="menu__underline"></span></span><svg class="menu__globe" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.8 3 2.8 15 0 18M12 3c-2.8 3-2.8 15 0 18M5 7.5h14M5 16.5h14"/></svg></a>
+          </nav>
+          <div class="menu__footer">
+            <div class="menu__contact">
+              <a href="mailto:jesse@nuuke.us">jesse@nuuke.us</a>
+              <a href="mailto:walter@nuuke.us">walter@nuuke.us</a>
+            </div>
+            <div class="menu__contact menu__contact--right">
+              <a href="tel:+13076556344">+1 307 655 6344</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <button class="sound-toggle" type="button" aria-label="Toggle sound" aria-pressed="false">
+      <span></span><span></span><span></span><span></span><span></span>
+    </button>
+
+    <main id="app"></main>
+
+    <div class="cursor" aria-hidden="true">
+      <div class="cursor__dot"></div>
+      <div class="cursor__label"></div>
+      <svg class="cursor__ring" viewBox="0 0 100 100"><circle cx="50" cy="50" r="46" /></svg>
+    </div>
+
+    <div class="loader loader--animate">
+      <div class="loader__inner">
+        <div class="loader__wrap js-loader-box">
+          <div class="loader__box"><div>N</div><div>U</div><div>U</div><div>K</div><div>E</div><div>®</div></div>
+        </div>
+        <span class="loader__title"><span class="logo-mark"></span></span>
+      </div>
+
+      <div class="loader__progress">
+        <div class="loader__progress-inner">
+          <div class="loader__inner">
+            <div class="loader__wrap js-loader-box">
+              <div class="loader__box loader__box--pink"><div>N</div><div>U</div><div>U</div><div>K</div><div>E</div><div>®</div></div>
+            </div>
+            <div class="loader__eyes-container" aria-hidden="true">
+              <svg class="loader__eyes" viewBox="0 0 300 220">
+                <defs>
+                  <clipPath id="nk-eye-l"><ellipse cx="112" cy="112" rx="50" ry="66" transform="rotate(-14 112 112)" /></clipPath>
+                  <clipPath id="nk-eye-r"><ellipse cx="192" cy="106" rx="58" ry="76" transform="rotate(12 192 106)" /></clipPath>
+                </defs>
+                <g>
+                  <ellipse cx="112" cy="112" rx="50" ry="66" transform="rotate(-14 112 112)" fill="#fff" />
+                  <g clip-path="url(#nk-eye-l)">
+                    <g class="js-pupil">
+                      <g class="js-eye-normal"><circle cx="112" cy="122" r="25" fill="#111" /><circle cx="103" cy="112" r="6.5" fill="#fff" /></g>
+                      <path class="js-eye-heart" transform="translate(112 124) scale(1.9)" fill="#ff4e1b" stroke="#111" stroke-width="2" d="M0 12C-18 0-22-14-11-20-4-24 0-18 0-14 0-18 4-24 11-20 22-14 18 0 0 12Z" />
+                    </g>
+                    <path class="js-lid-top" fill="#f8d8d8" stroke="#111" stroke-width="3" d="M52 36H172V112Q112 136 52 112Z" />
+                    <path class="js-lid-bottom" fill="#f8d8d8" stroke="#111" stroke-width="3" d="M52 188H172V112Q112 88 52 112Z" />
+                  </g>
+                  <ellipse cx="112" cy="112" rx="50" ry="66" transform="rotate(-14 112 112)" fill="none" stroke="#111" stroke-width="3" />
+                </g>
+                <g>
+                  <ellipse cx="192" cy="106" rx="58" ry="76" transform="rotate(12 192 106)" fill="#fff" />
+                  <g clip-path="url(#nk-eye-r)">
+                    <g class="js-pupil">
+                      <g class="js-eye-normal"><circle cx="192" cy="118" r="29" fill="#111" /><circle cx="182" cy="106" r="7.5" fill="#fff" /></g>
+                      <path class="js-eye-heart" transform="translate(192 120) scale(2.2)" fill="#ff4e1b" stroke="#111" stroke-width="2" d="M0 12C-18 0-22-14-11-20-4-24 0-18 0-14 0-18 4-24 11-20 22-14 18 0 0 12Z" />
+                    </g>
+                    <path class="js-lid-top" fill="#f8d8d8" stroke="#111" stroke-width="3" d="M124 20H260V106Q192 134 124 106Z" />
+                    <path class="js-lid-bottom" fill="#f8d8d8" stroke="#111" stroke-width="3" d="M124 192H260V106Q192 78 124 106Z" />
+                  </g>
+                  <ellipse cx="192" cy="106" rx="58" ry="76" transform="rotate(12 192 106)" fill="none" stroke="#111" stroke-width="3" />
+                </g>
+              </svg>
+            </div>
+            <span class="loader__title"><span class="logo-mark"></span></span>
+            <button class="loader__enter" type="button" data-btn="fill-light">Enter</button>
+          </div>
+        </div>
+      </div>
+
+      <button class="loader__skip" type="button">Enter without audio<span></span><span></span></button>
+    </div>
+
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

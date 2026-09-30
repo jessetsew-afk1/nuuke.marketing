@@ -1,0 +1,2194 @@
+[
+  {
+    "slug": "graza",
+    "name": "Graza",
+    "website": "https://www.graza.co",
+    "tagline": "Graza sells single-origin Spanish extra virgin olive oil in squeezable bottles and refill cans, split into a cooking oil and a finishing oil.",
+    "products": [
+      "\"Drizzle\" (finishing olive oil)",
+      "\"Sizzle\" (cooking olive oil)",
+      "\"Frizzle\" (high-heat frying olive oil)"
+    ],
+    "tiktokHandle": "getgraza",
+    "tiktokVideos": [
+      {
+        "id": "7262342282416852266",
+        "url": "https://www.tiktok.com/@getgraza/video/7262342282416852266",
+        "author": "getgraza",
+        "title": "an olive oil for cooking and an oil for finishing? that’s fresh?? AND in a squeezy bottle?! this is the life. #oliveo..."
+      },
+      {
+        "id": "7681746019939372302",
+        "url": "https://www.tiktok.com/@getgraza/video/7681746019939372302",
+        "author": "getgraza",
+        "title": "Drizzle just wants to Sizzle & Frizzle #graza #grazaoliveoil #drizzle #frizzle #summer"
+      },
+      {
+        "id": "7683273688459808013",
+        "url": "https://www.tiktok.com/@getgraza/video/7683273688459808013",
+        "author": "getgraza",
+        "title": "Lettuce is in again… as long as you eat it with our Zesty Caesar chips 🤝 #grazaoliveoil #graza #chips #potatochips #..."
+      },
+      {
+        "id": "7680674542909410573",
+        "url": "https://www.tiktok.com/@getgraza/video/7680674542909410573",
+        "author": "getgraza",
+        "title": "The seagulls could smell the chips a mile away… #potatochips #graza #grazaoliveoil #drizzle #sizzle"
+      },
+      {
+        "id": "7679177178302385421",
+        "url": "https://www.tiktok.com/@getgraza/video/7679177178302385421",
+        "author": "getgraza",
+        "title": "We’re not in the kitchen anymore!!!! #graza #grazaoliveoil #summerfridays #coneyisland #oliveoil"
+      },
+      {
+        "id": "7673923721383513358",
+        "url": "https://www.tiktok.com/@getgraza/video/7673923721383513358",
+        "author": "getgraza",
+        "title": "You won’t find us at the salad bar… #oliveoil #grazaoliveoil #thebeast #beastboat"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0550/0003/9638/products/graza-home-sizzle-in-usecopy_2x_4225c9a8-cb52-46e2-9b64-69d2342d581e.jpg?v=1751537035&width=1400",
+        "kind": "lifestyle",
+        "alt": "Graza olive oil sizzling in a steel frying pan on a gas burner"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0550/0003/9638/files/graza-home-olive-tree-about-cta_2x_04121622-d9d5-4b12-80f7-3e108daf90ab.jpg?v=1639579652&width=1400",
+        "kind": "lifestyle",
+        "alt": "Close-up of green olives on an olive tree branch"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0550/0003/9638/files/driz.jpg?v=1762198146&width=900",
+        "kind": "product",
+        "alt": "Graza \"Drizzle\" squeeze bottle"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0550/0003/9638/files/30_product_sizzle750ml_0002_fe965569-a5c7-45ca-8809-47da9aba1e32.jpg?v=1762198144&width=900",
+        "kind": "product",
+        "alt": "Graza \"Sizzle\" squeeze bottle"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0550/0003/9638/files/squeeze.jpg?v=1762306926&width=900",
+        "kind": "product",
+        "alt": "Graza \"Frizzle\" squeeze bottle"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0550/0003/9638/files/Trio_PDP_5.png?v=1762306915&width=900",
+        "kind": "product",
+        "alt": "Graza Drizzle, Sizzle and Frizzle bottle trio"
+      }
+    ],
+    "logo": "https://cdn.shopify.com/s/files/1/0550/0003/9638/files/graza-logo.png?v=1638847956",
+    "colors": [
+      {
+        "hex": "#D1E030",
+        "name": "Graza chartreuse"
+      },
+      {
+        "hex": "#3C422E",
+        "name": "Olive-drab ink"
+      },
+      {
+        "hex": "#F6E6D9",
+        "name": "Warm cream"
+      },
+      {
+        "hex": "#9EEF80",
+        "name": "Fresh leaf green"
+      },
+      {
+        "hex": "#FBD535",
+        "name": "Sunny yellow"
+      }
+    ],
+    "fonts": [
+      "GT Alpina Typewriter",
+      "ITC Garamond Condensed",
+      "Apercu"
+    ],
+    "notes": "Logo URL taken from the site's Organization JSON-LD (header logo is an inline SVG)."
+  },
+  {
+    "slug": "fishwife",
+    "name": "Fishwife",
+    "website": "https://eatfishwife.com",
+    "tagline": "Fishwife sells premium, responsibly sourced tinned seafood such as smoked salmon, trout, tuna and sardines in collectible illustrated tins.",
+    "products": [
+      "Smoked Salmon with Fly By Jing Chili Crisp",
+      "Albacore Tuna in Olive Oil",
+      "Smoked Rainbow Trout"
+    ],
+    "tiktokHandle": "eatfishwife",
+    "tiktokVideos": [
+      {
+        "id": "7532165843094883615",
+        "url": "https://www.tiktok.com/@eatfishwife/video/7532165843094883615",
+        "author": "eatfishwife",
+        "title": "that’s fishwife baby 🎏🌞⛰️🌻🌈 !! #fish #fishtok #tinnedfish #fishwife"
+      },
+      {
+        "id": "7686193134228802846",
+        "url": "https://www.tiktok.com/@eatfishwife/video/7686193134228802846",
+        "author": "eatfishwife",
+        "title": "why tinned fish is the most underrated protein in your pantry 😤"
+      },
+      {
+        "id": "7683269871777402125",
+        "url": "https://www.tiktok.com/@eatfishwife/video/7683269871777402125",
+        "author": "eatfishwife",
+        "title": "tinned fish starter pack!!! 🌞🐟"
+      },
+      {
+        "id": "7680981955701230878",
+        "url": "https://www.tiktok.com/@eatfishwife/video/7680981955701230878",
+        "author": "eatfishwife",
+        "title": "we took our OG recipe of spanish-style sardines, spanish EVOO + piri piri peppers and turned the dial ALLLLL the way..."
+      },
+      {
+        "id": "7686602080655510814",
+        "url": "https://www.tiktok.com/@eatfishwife/video/7686602080655510814",
+        "author": "eatfishwife",
+        "title": "our limited-edition @dieuxskin x fishwife good taste forever eye masks are here! 🐠✨ this infinitely reusable eye mas..."
+      },
+      {
+        "id": "7686186407987055902",
+        "url": "https://www.tiktok.com/@eatfishwife/video/7686186407987055902",
+        "author": "eatfishwife",
+        "title": "our first foray into skincare – launching tuesday, 9.22 🕊️"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0445/5199/5560/files/AfterlightImage_1_4.jpg?v=1776186278&width=1400",
+        "kind": "lifestyle",
+        "alt": "Plated dish of greens and smoked trout beside a Fishwife tin"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0445/5199/5560/files/SDG_Fishwife_LittleSardinesRainbowTrout_0629-v2.jpg?v=1761835914&width=1400",
+        "kind": "lifestyle",
+        "alt": "Stacked Fishwife tins styled with fruit on a cream backdrop"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0445/5199/5560/files/Tuna_1.png?v=1735837261&width=900",
+        "kind": "product",
+        "alt": "Fishwife Albacore Tuna in Olive Oil 3-pack"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0445/5199/5560/files/GoldLabelSalmonTrio.png?v=1770694141&width=900",
+        "kind": "product",
+        "alt": "Fishwife Gold Label Smoked Salmon 3-pack"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0445/5199/5560/files/Rainbow_Trout_2.png?v=1760374588&width=900",
+        "kind": "product",
+        "alt": "Open tin of Fishwife smoked rainbow trout"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0445/5199/5560/files/mackerel-fishwife.jpg?v=1737473289&width=900",
+        "kind": "product",
+        "alt": "Fishwife Slow Smoked Mackerel with Chili Flakes 3-pack"
+      }
+    ],
+    "logo": "https://cdn.shopify.com/s/files/1/0445/5199/5560/files/fishwife-logo.png?v=1741361529",
+    "colors": [
+      {
+        "hex": "#73C3F5",
+        "name": "Sky blue"
+      },
+      {
+        "hex": "#FECD59",
+        "name": "Sunshine yellow"
+      },
+      {
+        "hex": "#387CC0",
+        "name": "Ocean blue"
+      },
+      {
+        "hex": "#F04A49",
+        "name": "Coral red"
+      },
+      {
+        "hex": "#FFFCF3",
+        "name": "Cream paper"
+      }
+    ],
+    "fonts": [
+      "Recoleta",
+      "Petrona",
+      "Albert Sans"
+    ]
+  },
+  {
+    "slug": "omsom",
+    "name": "Omsom",
+    "website": "https://omsom.com",
+    "tagline": "Omsom makes Asian cooking sauce starters and saucy noodle kits developed with Asian American chefs; it was acquired by DayDayCook in 2024.",
+    "products": [
+      "Soy Garlic Saucy Noodles",
+      "Chili Sesame Saucy Noodles",
+      "Japanese Yuzu Misoyaki Sauce Starter"
+    ],
+    "tiktokHandle": "weareomsom",
+    "tiktokVideos": [
+      {
+        "id": "6948923180748655878",
+        "url": "https://www.tiktok.com/@weareomsom/video/6948923180748655878",
+        "author": "weareomsom",
+        "title": "Hi, we’re Omsom 👋🏼 #cooking #asianfood #omsom #foodie"
+      },
+      {
+        "id": "7148617161219640622",
+        "url": "https://www.tiktok.com/@weareomsom/video/7148617161219640622",
+        "author": "weareomsom",
+        "title": "Here’s our cheesy, spicy Omsom twist on potato bread 🤤 #asianrecipes #cheesepotatobread"
+      },
+      {
+        "id": "7413785334363753758",
+        "url": "https://www.tiktok.com/@weareomsom/video/7413785334363753758",
+        "author": "weareomsom",
+        "title": "SO CRISPY 🔥 Our Saucy Noodles make the CRUNCHIEST coating! #shrimp #easyrecipes"
+      },
+      {
+        "id": "7379712669768584491",
+        "url": "https://www.tiktok.com/@weareomsom/video/7379712669768584491",
+        "author": "weareomsom",
+        "title": "Y’all we’ve been acquired!! 🥳 We launched Omsom 4 years ago to celebrate Asian flavors + stories. Since then, we've..."
+      },
+      {
+        "id": "7330301458992139551",
+        "url": "https://www.tiktok.com/@weareomsom/video/7330301458992139551",
+        "author": "weareomsom",
+        "title": "We’ve been eating rice left out overnight since forever — we’re just built different, right?? 🤔 #friedricesyndrome"
+      },
+      {
+        "id": "7232059466727001390",
+        "url": "https://www.tiktok.com/@sonnybecooking/video/7232059466727001390",
+        "author": "sonnybecooking",
+        "title": "Let’s get saucy, @Omsom! 🍜🔥 #noodles #saucy #omsom #dinner #cooking #foodie #yum #asianfood #cookingtiktok #asmr"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0345/2102/2523/files/omsomweb-01.png?v=1682964446&width=1400",
+        "kind": "lifestyle",
+        "alt": "Bowl of Omsom saucy noodles lifted with chopsticks beside the product box"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0345/2102/2523/files/Omsom09_2_1.jpg?v=1643318672&width=1400",
+        "kind": "lifestyle",
+        "alt": "Table spread of Asian dishes with Omsom sauce starter packets"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0345/2102/2523/files/FirstPDP_SoyGarlic.png?v=1682639494&width=900",
+        "kind": "product",
+        "alt": "Omsom Soy Garlic Saucy Noodles box"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0345/2102/2523/files/Mala_PDP_hero_2x_3e895857-f249-4a6b-b5e3-10200ad5786c.png?v=1719235475&width=900",
+        "kind": "product",
+        "alt": "Omsom Mala product box on a mint backdrop"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0345/2102/2523/products/220808-yuzu-3-pack-box.jpg?v=1660238673&width=900",
+        "kind": "product",
+        "alt": "Omsom Japanese Yuzu Misoyaki sauce starter 3-pack box"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0345/2102/2523/files/BestSellerSauceSet_PDP_noLarb_1x1_db70d5c2-15b9-47cf-b8f5-ab7719f9c9d2.png?v=1728393776&width=900",
+        "kind": "product",
+        "alt": "Omsom best-seller sauce starter set"
+      }
+    ],
+    "logo": null,
+    "colors": [
+      {
+        "hex": "#FD5225",
+        "name": "Loud orange-red"
+      },
+      {
+        "hex": "#ECF842",
+        "name": "Electric chartreuse"
+      },
+      {
+        "hex": "#A80A44",
+        "name": "Deep raspberry"
+      },
+      {
+        "hex": "#F7F3DA",
+        "name": "Rice-paper cream"
+      },
+      {
+        "hex": "#D2B0D1",
+        "name": "Lilac"
+      }
+    ],
+    "fonts": [
+      "Gopher",
+      "Tandelle",
+      "Gosha",
+      "Druk Wide"
+    ],
+    "notes": "omsom.com is now a static Canva-built brand page after the June 2024 DayDayCook acquisition (no shop). Its own images return 404 to HEAD and send no CORS header, so images come from Omsom's legacy Shopify store CDN (store 0345/2102/2523, still live with ACAO *). Colors/fonts come from that legacy theme CSS + Typekit kit; the current Canva page uses Canva Sans/Noto Sans. No hosted logo file found (logo=null). One video is creator UGC (@sonnybecooking)."
+  },
+  {
+    "slug": "magic-spoon",
+    "name": "Magic Spoon",
+    "website": "https://magicspoon.com",
+    "tagline": "Magic Spoon makes high-protein, low-sugar, grain-free cereal in nostalgic flavors, plus protein treats, granola and oatmeal.",
+    "products": [
+      "Fruity Cereal",
+      "Cinnamon Crunch Cereal",
+      "Cereal Treats (Variety 6)"
+    ],
+    "tiktokHandle": "magicspooncereal",
+    "tiktokVideos": [
+      {
+        "id": "7514762575960231211",
+        "url": "https://www.tiktok.com/@magicspooncereal/video/7514762575960231211",
+        "author": "magicspooncereal",
+        "title": "Should we tell him? #magicspoon #magicspooncereal #highproteindiet #cereal #highprotein #nostalgic #nostalgia #magic..."
+      },
+      {
+        "id": "7507270104875388191",
+        "url": "https://www.tiktok.com/@magicspooncereal/video/7507270104875388191",
+        "author": "magicspooncereal",
+        "title": "Cereal has never told a lie #magicspoon #magicspooncereal #nostalgia #liarliar #movie #jimcarrey #nostalgic #nostalgi..."
+      },
+      {
+        "id": "7403025321793998111",
+        "url": "https://www.tiktok.com/@magicspooncereal/video/7403025321793998111",
+        "author": "magicspooncereal",
+        "title": "lol absolutely not, cereal is forever 😇 #magicspooncereal #proteincereal #highproteinbreakfast #healthybreakfast"
+      },
+      {
+        "id": "7559248729820187934",
+        "url": "https://www.tiktok.com/@magicspooncereal/video/7559248729820187934",
+        "author": "magicspooncereal",
+        "title": "Just another day at the cereal factory #magicspooncereal #magicspoon #milk #highprotein"
+      },
+      {
+        "id": "7479096153116642591",
+        "url": "https://www.tiktok.com/@magicspooncereal/video/7479096153116642591",
+        "author": "magicspooncereal",
+        "title": "We take National Cereal Day Very Cerealously 🙂‍↕️ #magicspoon #highprotein #highproteindiet #glutenfreefoods #gluten..."
+      },
+      {
+        "id": "7481703877721607454",
+        "url": "https://www.tiktok.com/@magicspooncereal/video/7481703877721607454",
+        "author": "magicspooncereal",
+        "title": "Love in the time of cereal 💖 #magicspoon #highprotein #highproteindiet #glutenfreefoods #glutenfreesnacks #glutenfre..."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0081/3826/0542/files/Homepage_SC_C_C-Desktop.png?v=1790345399&width=1400",
+        "kind": "lifestyle",
+        "alt": "Hero banner of Strawberry Cheesecake and Cookies & Cream cereal boxes over a pink-to-blue gradient"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0081/3826/0542/products/MS_CINNAMON-ROLL_POUR_ZEBRA.jpg?v=1769557669&width=1400",
+        "kind": "lifestyle",
+        "alt": "Milk pouring into a bowl of cinnamon cereal on an orange backdrop"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0081/3826/0542/files/MS_C_VAR6_HERO_2x_7341fa36-e701-431c-a0c3-5abb95847cb5.webp?v=1769004825&width=900",
+        "kind": "product",
+        "alt": "Magic Spoon cereal variety 6-pack boxes"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0081/3826/0542/files/MS_C_CINNCRUNCH_4PACK_HERO_2x_8f53c462-d73d-42fc-aca5-ece61a60f290.webp?v=1769005183&width=900",
+        "kind": "product",
+        "alt": "Magic Spoon Cinnamon Crunch cereal 4-pack"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0081/3826/0542/files/MS_T_VAR6_HERO_1b8eb5be-f790-4a13-a8bd-1b08c510f8f7.png?v=1787869951&width=900",
+        "kind": "product",
+        "alt": "Magic Spoon cereal treats variety boxes"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0081/3826/0542/files/strawberry_cheesecake.webp?v=1790002165&width=900",
+        "kind": "product",
+        "alt": "Magic Spoon Strawberry Cheesecake cereal box"
+      }
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/02/Magic_Spoon.svg",
+    "colors": [
+      {
+        "hex": "#3F0791",
+        "name": "Magic purple"
+      },
+      {
+        "hex": "#5B00ED",
+        "name": "Electric violet"
+      },
+      {
+        "hex": "#DAD9FF",
+        "name": "Lavender mist"
+      },
+      {
+        "hex": "#BFEFFF",
+        "name": "Milk-sky blue"
+      },
+      {
+        "hex": "#D034A2",
+        "name": "Berry pink"
+      }
+    ],
+    "fonts": [
+      "Poppins",
+      "Saira Condensed",
+      "Saira Extra Condensed"
+    ],
+    "notes": "TikTok handle is @magicspooncereal (not @magicspoon)."
+  },
+  {
+    "slug": "chamberlain-coffee",
+    "name": "Chamberlain Coffee",
+    "website": "https://chamberlaincoffee.com",
+    "tagline": "Chamberlain Coffee, founded by creator Emma Chamberlain, sells organic coffee, cold brew bags and ceremonial matcha online, in retail and at its LA cafes.",
+    "products": [
+      "Organic Ceremonial Matcha Green Tea Powder",
+      "Organic Cold Brew Elephant Large Coffee Bags",
+      "Organic Variety Cold Brew Singles"
+    ],
+    "tiktokHandle": "chamberlaincoffee",
+    "tiktokVideos": [
+      {
+        "id": "7456905946476940587",
+        "url": "https://www.tiktok.com/@chamberlaincoffee/video/7456905946476940587",
+        "author": "chamberlaincoffee",
+        "title": "the world needs more coffee… to be continued. @ToeJamFilms"
+      },
+      {
+        "id": "7471677039431388462",
+        "url": "https://www.tiktok.com/@chamberlaincoffee/video/7471677039431388462",
+        "author": "chamberlaincoffee",
+        "title": "our new signature coffee drink, is mommy approved ✔️. come try our salted caramel cold brew at chamberlain coffee wes..."
+      },
+      {
+        "id": "7483927855534017822",
+        "url": "https://www.tiktok.com/@chamberlaincoffee/video/7483927855534017822",
+        "author": "chamberlaincoffee",
+        "title": "our spring signature drinks have arrived! the orange blossom latte, lemon madeleine matcha, and mint matcha lemonade..."
+      },
+      {
+        "id": "7331103570894359840",
+        "url": "https://www.tiktok.com/@chamberlaincoffee/video/7331103570894359840",
+        "author": "chamberlaincoffee",
+        "title": "subscribe and save on your favorite chamberlain coffee products, including our best-selling matcha. video by @Spicy_S..."
+      },
+      {
+        "id": "7470958558050356522",
+        "url": "https://www.tiktok.com/@chamberlaincoffee/video/7470958558050356522",
+        "author": "chamberlaincoffee",
+        "title": "crafted for coffee lovers who want more from their mornings. find chamberlain coffee at your local store. video by @A..."
+      },
+      {
+        "id": "7511766712274930990",
+        "url": "https://www.tiktok.com/@chamberlaincoffee/video/7511766712274930990",
+        "author": "chamberlaincoffee",
+        "title": "Carry the essentials."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0424/8862/7355/files/XL_Cold_Brew_Bag_PDP_2048px_05.png?v=1739574860&width=1400",
+        "kind": "lifestyle",
+        "alt": "Chamberlain Coffee cold brew bag steeping in a glass pitcher"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0424/8862/7355/files/Ground_Medium_US_PDP_2048px_06.png?v=1770328259&width=1400",
+        "kind": "lifestyle",
+        "alt": "Medium roast coffee bag and a cup of coffee on a teal backdrop"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0424/8862/7355/files/OriginalMatcha_PDP_2048px_05_b48b9b3d-4315-4f50-878c-aebd96bd57d7.png?v=1765248884&width=900",
+        "kind": "product",
+        "alt": "Chamberlain Coffee ceremonial matcha tin with matcha powder"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0424/8862/7355/files/XL_Cold_Brew_Bag_PDP_2048px_01.png?v=1739574835&width=900",
+        "kind": "product",
+        "alt": "Chamberlain Coffee XL cold brew bags pouch"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0424/8862/7355/files/GroundMediumUS_PDP_2048px_01_19b14e9f-d449-40fa-ad2a-5c821930ddef.png?v=1740780819&width=900",
+        "kind": "product",
+        "alt": "Chamberlain Coffee organic medium roast ground coffee bag"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0424/8862/7355/files/Variety_Cold_Brew_Singles_PDP_2048px_01.png?v=1742512229&width=900",
+        "kind": "product",
+        "alt": "Chamberlain Coffee variety cold brew singles box"
+      }
+    ],
+    "logo": "https://cdn.sanity.io/images/otip2849/production/aeb7e13444a53c4d6a6ff14d90e66d7666a474f4-150x58.svg",
+    "colors": [
+      {
+        "hex": "#102341",
+        "name": "Chamberlain navy"
+      },
+      {
+        "hex": "#FAB90A",
+        "name": "Marigold yellow"
+      },
+      {
+        "hex": "#0F7437",
+        "name": "Matcha green"
+      },
+      {
+        "hex": "#E0717F",
+        "name": "Strawberry pink"
+      },
+      {
+        "hex": "#E6E4DA",
+        "name": "Oat"
+      }
+    ],
+    "fonts": [
+      "KP Sans",
+      "Wunderpunkt",
+      "IBM Plex Serif"
+    ],
+    "notes": "Site is a Shopify Hydrogen storefront; product images from cdn.shopify.com (ACAO *). Wide lifestyle heroes live on cdn.sanity.io, which only returns access-control-allow-origin when an Origin header is sent (it reflects the origin, so crossOrigin loads work) but not \"*\" on a plain HEAD, so they were excluded from images[]. Candidate: https://cdn.sanity.io/images/otip2849/production/dc5d27d6d30f2ff5a7463989eeb8e7a93197182f-1920x1080.jpg (iced lattes + matcha). The logo is on Sanity for the same reason: marked cors:false."
+  },
+  {
+    "slug": "kopari",
+    "name": "Kopari",
+    "website": "https://koparibeauty.com",
+    "tagline": "Kopari makes coconut-based body care, including body butters, scrubs, deodorants and SPF, built around organic coconut oil.",
+    "products": [
+      "100% Organic Coconut Melt",
+      "Ultra Restore Body Butter",
+      "Exfoliating Crush Scrub"
+    ],
+    "tiktokHandle": "koparibeauty",
+    "tiktokVideos": [
+      {
+        "id": "7473917280498224430",
+        "url": "https://www.tiktok.com/@koparibeauty/video/7473917280498224430",
+        "author": "koparibeauty",
+        "title": "My best kept secret ✨🤭 #kopari #koparibeauty #glowy #grwm #sunglaze #koparisettingmist #spf #koparispf #settingspray..."
+      },
+      {
+        "id": "7013896481165937926",
+        "url": "https://www.tiktok.com/@koparibeauty/video/7013896481165937926",
+        "author": "koparibeauty",
+        "title": "#koparibeauty Coconut Melt bc who doesn’t want to look like a glazed donut 24/7 #skintok #coconutoil @skinbyrileyb"
+      },
+      {
+        "id": "6932160282013879557",
+        "url": "https://www.tiktok.com/@koparibeauty/video/6932160282013879557",
+        "author": "koparibeauty",
+        "title": "This is your sign to use Coconut Melt as a hair mask. Your locks will thank you later 🥥 #koparibeauty #coconut #hair..."
+      },
+      {
+        "id": "7015265308520828165",
+        "url": "https://www.tiktok.com/@koparibeauty/video/7015265308520828165",
+        "author": "koparibeauty",
+        "title": "Melt Hacks: Part 2! Use this as a guide for using your #koparibeauty Coconut Melt🙌 #coconutoil #coconutoilforeverything"
+      },
+      {
+        "id": "7453156501058833706",
+        "url": "https://www.tiktok.com/@koparibeauty/video/7453156501058833706",
+        "author": "koparibeauty",
+        "title": "It’s Kopari’s signature coconut scent🥥✨ #kopari #koparibeauty #signaturescent #yousmellgood #coconut #koparibodybutt..."
+      },
+      {
+        "id": "7414159244397710634",
+        "url": "https://www.tiktok.com/@koparibeauty/video/7414159244397710634",
+        "author": "koparibeauty",
+        "title": "Because who wouldn’t want to smell like a creamy coconut beach vacation?!🥥👀 Where does Kaanapali Coast transport yo..."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0777/7633/files/Untitled_design_23.png?v=1723686874&width=1400",
+        "kind": "lifestyle",
+        "alt": "Woman lounging poolside on a Kopari towel"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0777/7633/files/SHOT_24_0063_25d54028-35d0-4360-acb4-4e1e15be7a9b.jpg?v=1705091485&width=1400",
+        "kind": "lifestyle",
+        "alt": "Woman relaxing in a turquoise pool"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0777/7633/files/OGMelt.png?v=1762198102&width=900",
+        "kind": "product",
+        "alt": "Kopari 100% Organic Coconut Melt jar"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0777/7633/files/OGBodyButter.png?v=1762199227&width=900",
+        "kind": "product",
+        "alt": "Kopari Ultra Restore Body Butter jar"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0777/7633/files/CrushScrub.png?v=1762198033&width=900",
+        "kind": "product",
+        "alt": "Kopari Exfoliating Crush Scrub jar"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0777/7633/files/CM21x1.png?v=1727122271&width=900",
+        "kind": "product",
+        "alt": "Kopari Coconut Melt jar surrounded by coconut pieces"
+      }
+    ],
+    "logo": "https://cdn.shopify.com/s/files/1/0777/7633/files/Kopari-Logo_blue-01.png?v=1699465819",
+    "colors": [
+      {
+        "hex": "#055769",
+        "name": "Deep lagoon teal"
+      },
+      {
+        "hex": "#17CFCC",
+        "name": "Tropical aqua"
+      },
+      {
+        "hex": "#C1E6E6",
+        "name": "Seafoam"
+      },
+      {
+        "hex": "#F3EDE0",
+        "name": "Sand"
+      },
+      {
+        "hex": "#E2F864",
+        "name": "Key lime"
+      }
+    ],
+    "fonts": [
+      "Futura PT",
+      "Tropiline",
+      "Inter"
+    ]
+  },
+  {
+    "slug": "tower-28",
+    "name": "Tower 28",
+    "website": "https://www.tower28beauty.com",
+    "tagline": "Tower 28 makes clean makeup and skincare formulated for sensitive skin, from its SOS Rescue Spray to ShineOn Lip Jelly.",
+    "products": [
+      "SOS Rescue Spray",
+      "ShineOn Lip Oil Jelly",
+      "Swipe Serum Concealer"
+    ],
+    "tiktokHandle": "tower28beauty",
+    "tiktokVideos": [
+      {
+        "id": "7504406946766736683",
+        "url": "https://www.tiktok.com/@tower28beauty/video/7504406946766736683",
+        "author": "tower28beauty",
+        "title": "SPF 👏 EVERY 👏 SINGLE 👏 DAY 👏 Rain or shine, protect your skin!! 🛟 #newlaunch #tower28 #spf #spf30 #sunscreen #fy..."
+      },
+      {
+        "id": "7540386292530433335",
+        "url": "https://www.tiktok.com/@tower28beauty/video/7540386292530433335",
+        "author": "tower28beauty",
+        "title": "Did we stutter? 😤 We want it all! #tower28beauty #skincare #makeup #sensitiveskin #summer"
+      },
+      {
+        "id": "7664664627707530526",
+        "url": "https://www.tiktok.com/@tower28beauty/video/7664664627707530526",
+        "author": "tower28beauty",
+        "title": "no pen 🖊️ no paper 📄 just sos 🆘 #tower28 #tower28beauty #sosspray #beautymarketing"
+      },
+      {
+        "id": "7647624593288514846",
+        "url": "https://www.tiktok.com/@tower28beauty/video/7647624593288514846",
+        "author": "tower28beauty",
+        "title": "SOS Spray is magic in a bottle ✨ Tell us your SOS journey below⬇️ #tower28 #sosspray #acnejourney #acne #acneproneskin"
+      },
+      {
+        "id": "7337514704119647534",
+        "url": "https://www.tiktok.com/@tower28beauty/video/7337514704119647534",
+        "author": "tower28beauty",
+        "title": "SOS LipSoftie is here to rescue your chapped, dry, sensitive lips 🆘 It’s love at first swipe ❤️ Available now at @se..."
+      },
+      {
+        "id": "7649072269414780191",
+        "url": "https://www.tiktok.com/@tower28beauty/video/7649072269414780191",
+        "author": "tower28beauty",
+        "title": "You can never have too many 🆘 💦 #tower28beauty #tower28 #sosspray #loveisland #loveislandseason8"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/2926/6108/files/Hero_4_1_a899e5e6-0f51-4b98-84b7-893dc55a1198.jpg?v=1746139048&width=1400",
+        "kind": "lifestyle",
+        "alt": "Model applying Tower 28 concealer against a lilac backdrop"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/2926/6108/files/SO-Magic-Model-1_9153536d-26ac-49f8-b3ee-24783f3e375c.jpg?v=1765910237&width=1400",
+        "kind": "lifestyle",
+        "alt": "Smiling model wearing ShineOn Lip Jelly"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/2926/6108/files/SOS_20Spray_20_E2_80_94_C2_A04_20oz.webp?v=1762649181&width=900",
+        "kind": "product",
+        "alt": "Tower 28 SOS Rescue Spray bottle"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/2926/6108/files/ShineOn_20Fire_91f1d7eb-2bac-469c-9413-dd2176bbebb5.webp?v=1762197925&width=900",
+        "kind": "product",
+        "alt": "Tower 28 ShineOn Lip Oil Jelly tube"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/2926/6108/files/Swipe_20Serum_20Concealer_20_E2_80_94_C2_A001_3100a3f8-0eff-4bdf-811d-4d351c67fd02.webp?v=1762199919&width=900",
+        "kind": "product",
+        "alt": "Tower 28 Swipe Serum Concealer"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/2926/6108/files/BeachPlease_20Magic_20Hour_90ccf943-90c1-4d08-b927-64bf2dae2b60.webp?v=1745444273&width=900",
+        "kind": "product",
+        "alt": "Tower 28 BeachPlease Cream Blush compact"
+      }
+    ],
+    "logo": "https://cdn.shopify.com/s/files/1/2926/6108/files/logo--clear-space.svg?v=1689771808",
+    "colors": [
+      {
+        "hex": "#D74015",
+        "name": "Tower orange"
+      },
+      {
+        "hex": "#872626",
+        "name": "Brick red"
+      },
+      {
+        "hex": "#F8F2ED",
+        "name": "Shell cream"
+      },
+      {
+        "hex": "#E0D1E7",
+        "name": "Lilac"
+      },
+      {
+        "hex": "#BCDBFF",
+        "name": "Pool blue"
+      }
+    ],
+    "fonts": [
+      "Scto Grotesk A",
+      "Cooper Lt BT"
+    ]
+  },
+  {
+    "slug": "saie",
+    "name": "Saie",
+    "website": "https://saiehello.com",
+    "tagline": "Saie makes clean, easy everyday makeup for dewy, skin-first looks, best known for its Glowy Super Gel highlighter.",
+    "products": [
+      "Glowy Super Gel",
+      "Slip Tint Tinted Moisturizer",
+      "Dew Blush"
+    ],
+    "tiktokHandle": "saiebeauty",
+    "tiktokVideos": [
+      {
+        "id": "7629042929599859999",
+        "url": "https://www.tiktok.com/@saiebeauty/video/7629042929599859999",
+        "author": "saiebeauty",
+        "title": "The glow everyone’s been talking about. ⭐️ Glowy Super Gel is your secret weapon for instantly hydrated, glowing skin..."
+      },
+      {
+        "id": "7553356944870739230",
+        "url": "https://www.tiktok.com/@saiebeauty/video/7553356944870739230",
+        "author": "saiebeauty",
+        "title": "Glowy Super Gel forever ✨ Thank you to @Allure and our amazing community! #saieglowysupergel #allurebestofbeauty #sai..."
+      },
+      {
+        "id": "7620557382795398431",
+        "url": "https://www.tiktok.com/@saiebeauty/video/7620557382795398431",
+        "author": "saiebeauty",
+        "title": "Since September 2023, Glowy Super™ Gel has been the #1 highlighter. It's more like a drink of water for your skin tha..."
+      },
+      {
+        "id": "7509970345844034846",
+        "url": "https://www.tiktok.com/@saiebeauty/video/7509970345844034846",
+        "author": "saiebeauty",
+        "title": "It’s a Saie summer ☀️ #saiebeauty #saieglowysupergel #saiesunglow #saiedewbronze #saiedewblushspicy"
+      },
+      {
+        "id": "7478420721799138591",
+        "url": "https://www.tiktok.com/@saiebeauty/video/7478420721799138591",
+        "author": "saiebeauty",
+        "title": "nothing beats an effortless, hydrating makeup routine ⭐️ Julie wears: Glowy Super Gel in Starglow Slip Tint Tinted Mo..."
+      },
+      {
+        "id": "7514707019694148894",
+        "url": "https://www.tiktok.com/@saiebeauty/video/7514707019694148894",
+        "author": "saiebeauty",
+        "title": "The glowier the better #saiebeauty #saieglowysupergel #glowymakeup"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0272/1982/0604/files/KITS_-_DESKTOP-new.1.png?v=1790364714&width=1400",
+        "kind": "lifestyle",
+        "alt": "Hand holding stacked Saie makeup kits against a pale backdrop"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0272/1982/0604/files/20220204_Jayla_Lyn_7280-R2_copy.jpg?v=1734374615&width=1400",
+        "kind": "lifestyle",
+        "alt": "Two models wearing dewy, natural-looking makeup"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0272/1982/0604/products/saie-glowy-super-gel-2022-featured-1.png?v=1667319393&width=900",
+        "kind": "product",
+        "alt": "Saie Glowy Super Gel bottle"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0272/1982/0604/products/saie-slip-tint-2022-featured-1.png?v=1667320864&width=900",
+        "kind": "product",
+        "alt": "Saie Slip Tint Tinted Moisturizer tube"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0272/1982/0604/products/saie-dew-blush-peachy-primary.png?v=1774282706&width=900",
+        "kind": "product",
+        "alt": "Saie Dew Blush liquid blush bottle"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0272/1982/0604/files/Rectangle24.jpg?v=1746106543&width=900",
+        "kind": "product",
+        "alt": "Saie lip gloss tube in a pink shade"
+      }
+    ],
+    "logo": null,
+    "colors": [
+      {
+        "hex": "#1B2121",
+        "name": "Saie charcoal"
+      },
+      {
+        "hex": "#F2F2F2",
+        "name": "Cloud gray"
+      },
+      {
+        "hex": "#C0C0DA",
+        "name": "Periwinkle"
+      },
+      {
+        "hex": "#91889D",
+        "name": "Dusty mauve"
+      },
+      {
+        "hex": "#E6EF00",
+        "name": "Acid yellow"
+      }
+    ],
+    "fonts": [
+      "Ordinary Display",
+      "Ordinary Text",
+      "Victor Serif",
+      "Inter"
+    ],
+    "notes": "Logo is an inline <svg class=\"logo\"> in the site header; no hosted logo file found (logo=null). TikTok handle is @saiebeauty."
+  },
+  {
+    "slug": "dieux-skin",
+    "name": "Dieux Skin",
+    "website": "https://www.dieuxskin.com",
+    "tagline": "Dieux Skin makes science-backed skincare and the reusable silicone Forever Eye Mask, with transparent ingredient education at its core.",
+    "products": [
+      "Instant Angel Lipid-Rich Firming Moisturizer",
+      "Forever Eye Mask",
+      "Deliverance 3-in-1 Repair Serum"
+    ],
+    "tiktokHandle": "dieuxskin",
+    "tiktokVideos": [
+      {
+        "id": "7557021195028139319",
+        "url": "https://www.tiktok.com/@dieuxskin/video/7557021195028139319",
+        "author": "dieuxskin",
+        "title": "There are so many ways to use this viral moisturizer! Instant Angel is your skin barrier’s protector. Deeply moisturi..."
+      },
+      {
+        "id": "7645437714271079710",
+        "url": "https://www.tiktok.com/@dieuxskin/video/7645437714271079710",
+        "author": "dieuxskin",
+        "title": "Replying to @shelby k 🤍 TLDR… Dieux Moisturizer Guide When On Retinoids: For aging? Instant Angel For acne + treatme..."
+      },
+      {
+        "id": "7117322946091207982",
+        "url": "https://www.tiktok.com/@dieuxskin/video/7117322946091207982",
+        "author": "dieuxskin",
+        "title": "@angel ♡ gets ready using Instant Angel and our Forever Eye Mask#skincare101 #skincaretips #skincare #grwm #grwmroutine"
+      },
+      {
+        "id": "7484254189921733934",
+        "url": "https://www.tiktok.com/@dieuxskin/video/7484254189921733934",
+        "author": "dieuxskin",
+        "title": "We heard you! Angels, get your wings 3.24 ✨ sign up in b i o to be the first to get your hands on the updated, limite..."
+      },
+      {
+        "id": "7285390344462634283",
+        "url": "https://www.tiktok.com/@dieuxskin/video/7285390344462634283",
+        "author": "dieuxskin",
+        "title": "Replying to @Bethany Elise Allen we created the forever eye mask to truly be the last eye mask you’ll ever need! #ski..."
+      },
+      {
+        "id": "7630955633822453005",
+        "url": "https://www.tiktok.com/@dieuxskin/video/7630955633822453005",
+        "author": "dieuxskin",
+        "title": "It’s a staple year round✨ #instantangel #skincare #dieux #dieuxskin #tiktokshop"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0291/1449/9165/files/02_GreenFEM_D2CPDP.png?v=1783445499&width=1400",
+        "kind": "lifestyle",
+        "alt": "Model wearing green Forever Eye Masks under her eyes"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0291/1449/9165/files/RitualsNotMiracles_01.png?v=1747060608&width=1400",
+        "kind": "lifestyle",
+        "alt": "Close-up of a model applying Dieux cream to her cheek"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0291/1449/9165/files/Frame_15.png?v=1750873296&width=900",
+        "kind": "product",
+        "alt": "Dieux product lineup of serums, moisturizers and eye masks"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0291/1449/9165/files/01_InstantAngel_50ml_D2CPDP_3e2d527b-b798-4bbf-b654-9b26fb9c5d53.png?v=1787942265&width=900",
+        "kind": "product",
+        "alt": "Dieux Instant Angel moisturizer tube"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0291/1449/9165/files/01_GreenFEM_D2CPDP.png?v=1779057956&width=900",
+        "kind": "product",
+        "alt": "Dieux Forever Eye Mask in its case"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0291/1449/9165/files/1_30mL_2ff45d4f-07b7-4847-8cbe-5b579acbf7d5.png?v=1787942160&width=900",
+        "kind": "product",
+        "alt": "Dieux Deliverance 3-in-1 Repair Serum bottle"
+      }
+    ],
+    "logo": "https://cdn.shopify.com/s/files/1/0291/1449/9165/files/dieux_favicon-02.png?v=1670977998",
+    "colors": [
+      {
+        "hex": "#000000",
+        "name": "Black"
+      },
+      {
+        "hex": "#FBF8F0",
+        "name": "Parchment"
+      },
+      {
+        "hex": "#AACCAA",
+        "name": "Sage"
+      },
+      {
+        "hex": "#83ADC5",
+        "name": "Cloud blue"
+      },
+      {
+        "hex": "#E0634E",
+        "name": "Coral"
+      }
+    ],
+    "fonts": [
+      "GT America",
+      "GT America Mono",
+      "Perpetua Titling",
+      "Kapakana"
+    ]
+  },
+  {
+    "slug": "ruggable",
+    "name": "Ruggable",
+    "website": "https://ruggable.com",
+    "tagline": "Ruggable sells machine-washable, stain-resistant rugs, either as a two-piece cover-and-pad system or as single-piece All-in-One rugs.",
+    "products": [
+      "All-in-One Rug",
+      "Flatwoven Two-Piece Rug (Rug Cover + Rug Pad)",
+      "Washable Doormat"
+    ],
+    "tiktokHandle": "ruggable",
+    "tiktokVideos": [
+      {
+        "id": "7557041218111245581",
+        "url": "https://www.tiktok.com/@ruggable/video/7557041218111245581",
+        "author": "ruggable",
+        "title": "We didn’t just shrug it off. We made it better. Introducing our new All-in-One rug. #washablerugs #ruggable #homedeco..."
+      },
+      {
+        "id": "7226910138077089067",
+        "url": "https://www.tiktok.com/@ruggable/video/7226910138077089067",
+        "author": "ruggable",
+        "title": "You can always machine-wash our rugs, but sometimes a small spill only calls for spot cleaning. So…how do you spot cl..."
+      },
+      {
+        "id": "7381504473467866414",
+        "url": "https://www.tiktok.com/@ruggable/video/7381504473467866414",
+        "author": "ruggable",
+        "title": "You asked, so we answered! Here are our best practices when it comes time to wash your Ruggable Rug 🧼 #ruggable #rug..."
+      },
+      {
+        "id": "7391928015392951595",
+        "url": "https://www.tiktok.com/@ruggable/video/7391928015392951595",
+        "author": "ruggable",
+        "title": "What other cleaning tips should we share next? 🫧 #ruggable #rugtok #rugcleaning #washablerugs #cleaningtips"
+      },
+      {
+        "id": "7342952139490102574",
+        "url": "https://www.tiktok.com/@ruggable/video/7342952139490102574",
+        "author": "ruggable",
+        "title": "Replying to @user9265965338559 Now go wash that rug! #ruggable #rugtok #springcleaningtips #washablerug #rugcleaning"
+      },
+      {
+        "id": "7494400379279510826",
+        "url": "https://www.tiktok.com/@everylastlayer/video/7494400379279510826",
+        "author": "everylastlayer",
+        "title": "Finding the right rug for our guest room has taken forever. I was searching for something bold enough to remind me of..."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://images.ctfassets.net/9y4fi2gkk4ov/1IFWLgR1edkVeXhPJffAFB/cd37eded8855f1915766138f63f67cfc/Ecomm-FallResetSale-HP-AnthroFeature-Desktop-US-AL-Final.20260915175221134.jpg?w=1600",
+        "kind": "lifestyle",
+        "alt": "Bedroom styled with a patterned Ruggable area rug"
+      },
+      {
+        "url": "https://images.ctfassets.net/9y4fi2gkk4ov/44iVEQqHip1BrLshxtEUFI/447f41ace9709715421b929574eb0245/HowItWorks_HeroImage_Desktop.jpg?w=1600",
+        "kind": "lifestyle",
+        "alt": "Ruggable rug cover being loaded into a front-loading washing machine"
+      },
+      {
+        "url": "https://images.ctfassets.net/9y4fi2gkk4ov/2IIpNDW5Bd6iObeEuHfv52/4314766133e521b379e574e613ba6052/NOLAN_BOLD_STRIPE_NATURAL___DARK_NATURAL_FOLD_CJT21_1.jpg?w=1600",
+        "kind": "product",
+        "alt": "Folded Nolan Bold Stripe rug in natural tones"
+      },
+      {
+        "url": "https://images.ctfassets.net/9y4fi2gkk4ov/7jnzz8nccu7YpaDD3rlvbn/f8f04c51e8e696de8b838784933d73a1/Plush-1piece.jpg?w=1600",
+        "kind": "product",
+        "alt": "Corner of a green Plush All-in-One rug turned up to show its backing"
+      },
+      {
+        "url": "https://images.ctfassets.net/9y4fi2gkk4ov/68hb9Pj9blpY2sk75bnPWh/8ed4b9377a4270604e893a07519b183a/Rug-Comparison-Standard-Rug-Pad_1.jpg?w=1600",
+        "kind": "product",
+        "alt": "Rug cover peeled back to reveal the Ruggable rug pad"
+      },
+      {
+        "url": "https://images.ctfassets.net/9y4fi2gkk4ov/3Y3Ul3e6D58YpROMq7wiaO/d927b514481bd0a9a4471a9f4f4d767f/Bathmat_2.jpg?w=1600",
+        "kind": "product",
+        "alt": "Ruggable washable bath mat in a white-tiled bathroom"
+      }
+    ],
+    "logo": "https://cdn.shopify.com/s/files/1/1033/0751/files/Ruggable-Logo-Black.jpg?v=1644880501",
+    "colors": [
+      {
+        "hex": "#1A1817",
+        "name": "Espresso black"
+      },
+      {
+        "hex": "#F6F4EF",
+        "name": "Linen white"
+      },
+      {
+        "hex": "#EBE8DD",
+        "name": "Oatmeal"
+      },
+      {
+        "hex": "#657567",
+        "name": "Sage"
+      },
+      {
+        "hex": "#934B32",
+        "name": "Terracotta"
+      }
+    ],
+    "fonts": [
+      "Manrope",
+      "aprisRuggable (Apris)"
+    ],
+    "notes": "Site is Next.js, not a Shopify theme: images are served from Ruggable's Contentful space (images.ctfassets.net/9y4fi2gkk4ov, ACAO *, sized with ?w=1600); logo is on Ruggable's Shopify files CDN. The product grid is client-rendered, so product names are product lines from site copy rather than individual SKUs. One video is creator UGC (@everylastlayer, a paid #ruggablepartner post)."
+  },
+  {
+    "slug": "bearaby",
+    "name": "Bearaby",
+    "website": "https://www.bearaby.com",
+    "tagline": "Bearaby makes hand-knit, filler-free weighted blankets plus sleep and relaxation goods like body pillows, sleep masks and bamboo bedding.",
+    "products": [
+      "Cotton Napper",
+      "Tree Napper",
+      "Cuddler"
+    ],
+    "tiktokHandle": "mybearaby",
+    "tiktokVideos": [
+      {
+        "id": "7242389021823995137",
+        "url": "https://www.tiktok.com/@mybearaby/video/7242389021823995137",
+        "author": "mybearaby",
+        "title": "Introducing the Ocean Napper 🌊 This soft and breathable limited edition weighted blanket is inspired by clear blue wa..."
+      },
+      {
+        "id": "7233763633140993281",
+        "url": "https://www.tiktok.com/@mybearaby/video/7233763633140993281",
+        "author": "mybearaby",
+        "title": "Cuddle me softly 🤗😍 #bodycuddler #cuddler #pillow #bodypillow"
+      },
+      {
+        "id": "7502142650276039943",
+        "url": "https://www.tiktok.com/@mybearaby/video/7502142650276039943",
+        "author": "mybearaby",
+        "title": "A hug from our weighted blankets can help calm your nervous system … science says so. 😉 #sleephack #nervoussystemregu..."
+      },
+      {
+        "id": "7191106919216549122",
+        "url": "https://www.tiktok.com/@mybearaby/video/7191106919216549122",
+        "author": "mybearaby",
+        "title": "Knot your average pillow 🤗🫶 #bearaby #pillow #cuddles #homedecor #weightedblanket"
+      },
+      {
+        "id": "7170317408207457582",
+        "url": "https://www.tiktok.com/@chellefko/video/7170317408207457582",
+        "author": "chellefko",
+        "title": "All day every day with @mybearaby #bearaby #mybearaby #weightedblanket #bearabynapper"
+      },
+      {
+        "id": "7122303938501545258",
+        "url": "https://www.tiktok.com/@jessicanookx/video/7122303938501545258",
+        "author": "jessicanookx",
+        "title": "#ad I’ve been loving my @mybearaby Tree Napper! Check it out today! 🌿 #bearaby #weightedblanket #treenapper #sponsore..."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0064/3262/0633/files/Heaven_Stitch_Cotton_Napper_Bed_Lifestyle_Cradled_Lilac-2_extended_1.jpg?width=1400",
+        "kind": "lifestyle",
+        "alt": "Lilac Cotton Napper weighted blanket draped over a bed"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0064/3262/0633/files/Travel-Napper_Home-Page-Slider.jpg?width=1400",
+        "kind": "lifestyle",
+        "alt": "Bearaby Travel Napper homepage slider shot"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0064/3262/0633/products/Cozy-Corn_Cotton-Napper-_1.jpg?v=1772120305&width=900",
+        "kind": "product",
+        "alt": "Cotton Napper weighted blanket in Cozy Corn"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0064/3262/0633/products/Goodnight-Grape_Cotton-Napper-_3.jpg?v=1772120305&width=900",
+        "kind": "product",
+        "alt": "Cotton Napper in Goodnight Grape, full blanket view"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0064/3262/0633/products/Pomegranate_Tree-Napper-_1.jpg?v=1753977608&width=900",
+        "kind": "product",
+        "alt": "Tree Napper cooling weighted blanket in Pomegranate"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0064/3262/0633/files/cuddler_default.webp?v=1776408479&width=900",
+        "kind": "product",
+        "alt": "Bearaby Cuddler body pillow"
+      }
+    ],
+    "logo": "https://cdn.shopify.com/s/files/1/0064/3262/0633/files/Logo.png",
+    "colors": [
+      {
+        "hex": "#003057",
+        "name": "Deep Navy (primary text/accent)"
+      },
+      {
+        "hex": "#66839A",
+        "name": "Slate Blue"
+      },
+      {
+        "hex": "#F7B770",
+        "name": "Warm Apricot"
+      },
+      {
+        "hex": "#E2E2E2",
+        "name": "Mist Grey"
+      },
+      {
+        "hex": "#D7EDFE",
+        "name": "Pale Sky"
+      }
+    ],
+    "fonts": [
+      "Gilroy",
+      "Goudy"
+    ]
+  },
+  {
+    "slug": "ooni",
+    "name": "Ooni",
+    "website": "https://ooni.com",
+    "tagline": "Ooni designs portable outdoor and countertop pizza ovens fueled by gas, wood, charcoal or electricity, plus dough mixers and pizza tools.",
+    "products": [
+      "Ooni Koda 2 Max",
+      "Ooni Karu 2 Pro",
+      "Ooni Volt 2"
+    ],
+    "tiktokHandle": "oonihq",
+    "tiktokVideos": [
+      {
+        "id": "7422009732778495264",
+        "url": "https://www.tiktok.com/@oonihq/video/7422009732778495264",
+        "author": "oonihq",
+        "title": "Your front row seat to our newest oven, the Karu 2 Pro #ooni #pizza #unboxing #asmr"
+      },
+      {
+        "id": "7564827714629143841",
+        "url": "https://www.tiktok.com/@oonihq/video/7564827714629143841",
+        "author": "oonihq",
+        "title": "Come and make a NY-style pizza with Ooni Founder, and part-time pizza historian, @tapaninaho with the brand new Ooni..."
+      },
+      {
+        "id": "7428918072343399713",
+        "url": "https://www.tiktok.com/@oonihq/video/7428918072343399713",
+        "author": "oonihq",
+        "title": "How to launch your pizza into your Ooni from @artisanbryanford #pizza #pizzamakingtips"
+      },
+      {
+        "id": "7488053126163926294",
+        "url": "https://www.tiktok.com/@oonihq/video/7488053126163926294",
+        "author": "oonihq",
+        "title": "Cook smarter with Ooni Connect™ Digital Temperature HubGet real-time ambient temperature and food probe readings dire..."
+      },
+      {
+        "id": "7454202094984236321",
+        "url": "https://www.tiktok.com/@oonihq/video/7454202094984236321",
+        "author": "oonihq",
+        "title": "Cold proof dough is always a strong performer. Check out the full recipe on our website. #dough #recipe"
+      },
+      {
+        "id": "7501360840738655519",
+        "url": "https://www.tiktok.com/@j.kenji.lopezalt/video/7501360840738655519",
+        "author": "j.kenji.lopezalt",
+        "title": "Here’s a pizza bake from start to finish in my @Ooni Pizza Ovens Koda 2 Pro. This is the 7th or 8th Ooni I’ve owned (..."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0205/9582/files/Koda_2_Max_Two_Pizzas_Backyard_F-1599x1599-682b92e.jpg?v=1751498629&width=1400",
+        "kind": "lifestyle",
+        "alt": "Ooni Koda 2 Max baking two pizzas in a backyard"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0205/9582/files/UU-P2EE00_Image9-F.jpg?v=1749094517&width=1400",
+        "kind": "lifestyle",
+        "alt": "Ooni Karu 2 Pro pizza oven in an outdoor setting"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0205/9582/files/2048x2048-PDP-Karu2Pro-Front-F.webp?v=1749094517&width=900",
+        "kind": "product",
+        "alt": "Ooni Karu 2 Pro multi-fuel pizza oven, front view"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0205/9582/files/2048x2048-PDP-Koda2Max-Front-2Pizzas-F.webp?v=1749094223&width=900",
+        "kind": "product",
+        "alt": "Ooni Koda 2 Max gas oven face-on, baking two pizzas"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0205/9582/files/NA_Volt_2_PDP_4_web.jpg?v=1772728209&width=900",
+        "kind": "product",
+        "alt": "Ooni Volt 2 electric pizza oven, close-up front view"
+      }
+    ],
+    "logo": "https://cdn.shopify.com/s/files/1/0205/9582/files/Ooni-PrimaryLogo-301x182-c1fe72b_1_43062e30-e2a7-46b8-ab6e-d5e8f31c8e7a_1.png?v=1766747585",
+    "colors": [
+      {
+        "hex": "#FFC633",
+        "name": "Ooni Yellow"
+      },
+      {
+        "hex": "#25282A",
+        "name": "Charcoal"
+      },
+      {
+        "hex": "#293035",
+        "name": "Slate"
+      },
+      {
+        "hex": "#C1C2C3",
+        "name": "Ash Grey"
+      },
+      {
+        "hex": "#FFFFFF",
+        "name": "White"
+      }
+    ],
+    "fonts": [
+      "Montserrat"
+    ]
+  },
+  {
+    "slug": "parachute",
+    "name": "Parachute",
+    "website": "https://www.parachutehome.com",
+    "tagline": "Parachute sells premium bedding, bath linens and home essentials such as linen sheets, organic cotton towels and comforters.",
+    "products": [
+      "Linen Sheet Set",
+      "Organic Cotton Puff Comforter",
+      "Organic Cloud Cotton Quilt"
+    ],
+    "tiktokHandle": "parachutehome",
+    "tiktokVideos": [
+      {
+        "id": "7486240257088802091",
+        "url": "https://www.tiktok.com/@parachutehome/video/7486240257088802091",
+        "author": "parachutehome",
+        "title": "Sage for spring >>> #myparachutehome #sagebedding #springcolors"
+      },
+      {
+        "id": "7163333715148573998",
+        "url": "https://www.tiktok.com/@parachutehome/video/7163333715148573998",
+        "author": "parachutehome",
+        "title": "Meet the Organic Cotton Puff Comforter☁️ Which color is your favorite? #duvetcover #beddingset"
+      },
+      {
+        "id": "7487718225841802542",
+        "url": "https://www.tiktok.com/@parachutehome/video/7487718225841802542",
+        "author": "parachutehome",
+        "title": "The best of the best ☁️ #linen #linenbedding"
+      },
+      {
+        "id": "7007922743664446726",
+        "url": "https://www.tiktok.com/@parachutehome/video/7007922743664446726",
+        "author": "parachutehome",
+        "title": "Layering our new ochre bedding with @lauren 🪐 #MyParachuteHome #bedroomstyle #bedroomtour #styling"
+      },
+      {
+        "id": "7508831399709920543",
+        "url": "https://www.tiktok.com/@ethancgaskill/video/7508831399709920543",
+        "author": "ethancgaskill",
+        "title": "the softest + most durable linen yet from @Parachute Home 🧺 now on sale for memorial day #parachutepartner"
+      },
+      {
+        "id": "7518129242635373855",
+        "url": "https://www.tiktok.com/@just.jully/video/7518129242635373855",
+        "author": "just.jully",
+        "title": "My bedroom feels like a hotel with the all white linen bedding bundle from @Parachute Home Bedding should be soft and..."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0396/8269/files/Sept_W4_Evergreen_Desktop.jpg?width=1400",
+        "kind": "lifestyle",
+        "alt": "Bed dressed in deep evergreen bedding beside a table lamp"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0396/8269/files/linen_ink_bone_boucle-ball_tobacco_gather-throw_dusk-java_lifestyle_2187.jpg?width=1400",
+        "kind": "lifestyle",
+        "alt": "Layered linen bedding in Ink and Bone with a throw"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0396/8269/files/linen-sheet-set-white-_f-q_k-ck__01_128bc061-2e89-42bf-9a24-425adf9bf7e2.jpg?width=900",
+        "kind": "product",
+        "alt": "Linen Sheet Set in White"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0396/8269/files/organic-cotton-puff-comforter-bone_01_d01d7069-2bd3-4529-b5ee-d31098abcda5.jpg?v=1762839054&width=900",
+        "kind": "product",
+        "alt": "Organic Cotton Puff Comforter in Bone"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0396/8269/files/organic-cloud-cotton-quilt_sky_main_1798.jpg?v=1782335958&width=900",
+        "kind": "product",
+        "alt": "Organic Cloud Cotton Quilt in Sky"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0396/8269/files/organic-cotton-mosaic-towels-multi_01_a83c1d39-8a35-48e0-999d-71d2c0089337.jpg?v=1762838953&width=900",
+        "kind": "product",
+        "alt": "Organic Cotton Mosaic Towels in Multi"
+      }
+    ],
+    "logo": "https://cdn.shopify.com/s/files/1/0396/8269/files/Header-Logo-Latest-New.svg?v=1740384494",
+    "colors": [
+      {
+        "hex": "#080808",
+        "name": "Logo Near-Black"
+      },
+      {
+        "hex": "#DCDAD4",
+        "name": "Bone"
+      },
+      {
+        "hex": "#C49C8C",
+        "name": "Clay"
+      },
+      {
+        "hex": "#4A5663",
+        "name": "Ink Slate"
+      },
+      {
+        "hex": "#F7F6EB",
+        "name": "Cream"
+      }
+    ],
+    "fonts": [
+      "Suisse Intl",
+      "Petrona"
+    ]
+  },
+  {
+    "slug": "naadam",
+    "name": "Naadam",
+    "website": "https://naadam.co",
+    "tagline": "Naadam sells cashmere sweaters and apparel sourced from Mongolian herders and sold direct-to-consumer at accessible prices.",
+    "products": [
+      "The Original Cashmere Crewneck Sweater",
+      "Signature Cashmere Polo Sweater",
+      "Luxe Cashmere Crewneck Sweater"
+    ],
+    "tiktokHandle": "naadam.co",
+    "tiktokVideos": [
+      {
+        "id": "7283130616575528235",
+        "url": "https://www.tiktok.com/@sophsiti/video/7283130616575528235",
+        "author": "sophsiti",
+        "title": "the $75 cashmere sweater from @Naadam Cashmere that you all need #affordablecashmere #bestcashmere #cashmeresweaters"
+      },
+      {
+        "id": "7305175384255974702",
+        "url": "https://www.tiktok.com/@fatoufall/video/7305175384255974702",
+        "author": "fatoufall",
+        "title": "styling this beautiful 100% cashmere sweater from @Naadam Cashmere 🤎 they have so many versatile options to shop from..."
+      },
+      {
+        "id": "7280190368950308139",
+        "url": "https://www.tiktok.com/@byalejandrojomar/video/7280190368950308139",
+        "author": "byalejandrojomar",
+        "title": "$75 Cashmere sweater brand you should know 👀🐐 Naadam | #cashmeresweater #fashiontok #menswear #mensfashion #streetwear"
+      },
+      {
+        "id": "7238757979913194795",
+        "url": "https://www.tiktok.com/@zaaachydub/video/7238757979913194795",
+        "author": "zaaachydub",
+        "title": "The @Naadam Cashmere $75 sweater is on sale for $65 today! #cashmeresweater #memorialdaysale #oldmoneystyle #quietlux..."
+      },
+      {
+        "id": "7433814756089187615",
+        "url": "https://www.tiktok.com/@chez.colleen/video/7433814756089187615",
+        "author": "chez.colleen",
+        "title": "Replying to @Colleen - fashion & style it’s sweater weather, and I have an update on @NAADAM cashmere! Would love to..."
+      },
+      {
+        "id": "7283544008083688746",
+        "url": "https://www.tiktok.com/@thedailyschvitz/video/7283544008083688746",
+        "author": "thedailyschvitz",
+        "title": "this is not an ad its just a naadam fan account - l!nked it in my shopmy under all my sweaters!! #fallstyle #cashmere..."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0313/7821/files/desktop.hero.campaign.september.jpg?width=1400",
+        "kind": "lifestyle",
+        "alt": "Two models in colorful cashmere sweaters against a terracotta backdrop (homepage campaign)"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0313/7821/files/mobile.image_block_b0560218-1606-407d-9e20-ddf63a96ecd5.jpg?width=1400",
+        "kind": "lifestyle",
+        "alt": "Naadam brand image block: really good cashmere at fair prices"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0313/7821/files/The-Original-Cashmere-Crew---Dusty-Rose_0112.jpg?v=1789628791&width=900",
+        "kind": "product",
+        "alt": "The Original Cashmere Crewneck Sweater in Dusty Rose"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0313/7821/files/Signature-Cashmere-Polo-Sweater_Dark-Purple_0090.jpg?v=1789024552&width=900",
+        "kind": "product",
+        "alt": "Signature Cashmere Polo Sweater in Dark Purple"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0313/7821/files/Luxe-Cashmere-Crewneck-Sweater_Heathered-Purple_0171.jpg?v=1790285296&width=900",
+        "kind": "product",
+        "alt": "Luxe Cashmere Crewneck Sweater in Heathered Purple"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0313/7821/files/Signature-Cashmere-Straight-Leg-Pant-_CO__White_0091.jpg?v=1787951334&width=900",
+        "kind": "product",
+        "alt": "Signature Cashmere Straight Leg Pant in White"
+      }
+    ],
+    "logo": "https://cdn.shopify.com/s/files/1/0313/7821/files/NAADAM-logo_c93ffea2-2787-4cb3-97d6-7be94e51f0f3.jpg?v=1622989865",
+    "colors": [
+      {
+        "hex": "#2D2E2B",
+        "name": "Off-Black"
+      },
+      {
+        "hex": "#8B9C55",
+        "name": "Moss Green"
+      },
+      {
+        "hex": "#C8A88E",
+        "name": "Camel"
+      },
+      {
+        "hex": "#D9D9D9",
+        "name": "Light Grey"
+      },
+      {
+        "hex": "#FFFFFF",
+        "name": "White"
+      }
+    ],
+    "fonts": [
+      "proxima-nova",
+      "Inter"
+    ]
+  },
+  {
+    "slug": "cotopaxi",
+    "name": "Cotopaxi",
+    "website": "https://www.cotopaxi.com",
+    "tagline": "Cotopaxi is a B Corp outdoor brand selling colorful backpacks, travel packs and technical apparel such as fleece and down jackets.",
+    "products": [
+      "Allpa 35L Travel Pack",
+      "Teca Half-Zip Windbreaker",
+      "Fuego Down Hooded Jacket"
+    ],
+    "tiktokHandle": "cotopaxiofficial",
+    "tiktokVideos": [
+      {
+        "id": "7535148851938774285",
+        "url": "https://www.tiktok.com/@cotopaxiofficial/video/7535148851938774285",
+        "author": "cotopaxiofficial",
+        "title": "Tote or backpack?🎒👜 @Anna Woodring gives us the breakdown. #bags #tote #backpack #cotopaxi #compare #travel #backtosc..."
+      },
+      {
+        "id": "7518086209030147341",
+        "url": "https://www.tiktok.com/@cotopaxiofficial/video/7518086209030147341",
+        "author": "cotopaxiofficial",
+        "title": "The 50L Allpa goes to Asia. 🙌🏻 #travel #backpack #backpacking #asia #southeastasia #review #breakdown #fyp"
+      },
+      {
+        "id": "7504401121083936030",
+        "url": "https://www.tiktok.com/@cotopaxiofficial/video/7504401121083936030",
+        "author": "cotopaxiofficial",
+        "title": "The Allpa 26L Daypack>>>other packs. #daypack #backpack #new #fyp #cotopaxi #travel #breakdown #allpa"
+      },
+      {
+        "id": "7541508873459404045",
+        "url": "https://www.tiktok.com/@cotopaxiofficial/video/7541508873459404045",
+        "author": "cotopaxiofficial",
+        "title": "@Yeh is still trying to break our Allpa Daypack…🙃 #backpack #testing #outdoors #durabilitytest #fyp"
+      },
+      {
+        "id": "7650109326945832206",
+        "url": "https://www.tiktok.com/@cotopaxiofficial/video/7650109326945832206",
+        "author": "cotopaxiofficial",
+        "title": "And we must go. 🤙 Where's your next destination?"
+      },
+      {
+        "id": "7538872934060838199",
+        "url": "https://www.tiktok.com/@yehslacks/video/7538872934060838199",
+        "author": "yehslacks",
+        "title": "How should I test it next?! @Cotopaxi Gear #CotopaxiPartner"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0281/7544/files/Fall_3_-_Launch_-_HP_Banner_-_2_-_Desktop_b955193b-c229-41d7-b80e-650d48ba5e84.jpg?v=1790632355&width=1400",
+        "kind": "lifestyle",
+        "alt": "Hikers in colorful Cotopaxi jackets celebrating on a mountain ridge"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0281/7544/files/HP_HERO_BANNER_REFRESH__LONG_WEEKEND_Desktop.jpg?v=1787775914&width=1400",
+        "kind": "lifestyle",
+        "alt": "Two travelers pulling Cotopaxi rolling luggage past a brick wall"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0281/7544/files/1200x1200png-S25Allpa35LTravelPackBlueSmoke_F.png?v=1753891038&width=900",
+        "kind": "product",
+        "alt": "Allpa 35L Travel Pack in Blue Smoke"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0281/7544/files/1200x1200png-S25MTecaHalf-ZipWindbreakerFirefly_02.png?v=1731694402&width=900",
+        "kind": "product",
+        "alt": "Men's Teca Half-Zip Windbreaker in Firefly"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0281/7544/files/s26-w-fuego-down-hooded-jacket-in-cream-stripes-2577_da647911-e78f-4dfc-9777-f1b81faa38d5.png?v=1772138787&width=900",
+        "kind": "product",
+        "alt": "Women's Fuego Down Hooded Jacket in Cream Stripes"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0281/7544/files/1200x1200png-F24Batac16LBackpackDelDiaEarthDelDiaEarth_F.png?v=1718984214&width=900",
+        "kind": "product",
+        "alt": "Batac 16L Daypack, Del Día one-of-a-kind colorway"
+      }
+    ],
+    "logo": "https://cdn.shopify.com/s/files/1/0281/7544/files/cotopaxi-logo.png",
+    "colors": [
+      {
+        "hex": "#F04922",
+        "name": "Cotopaxi Orange (logo)"
+      },
+      {
+        "hex": "#25282A",
+        "name": "Charcoal"
+      },
+      {
+        "hex": "#EEECE9",
+        "name": "Warm Stone"
+      },
+      {
+        "hex": "#0098DB",
+        "name": "Sky Blue"
+      },
+      {
+        "hex": "#D4D771",
+        "name": "Lime"
+      }
+    ],
+    "fonts": [
+      "Mont",
+      "Gotham"
+    ]
+  },
+  {
+    "slug": "ridge",
+    "name": "Ridge",
+    "website": "https://ridge.com",
+    "tagline": "Ridge makes minimalist RFID-blocking metal wallets plus key organizers, phone cases and travel gear for everyday carry.",
+    "products": [
+      "The Ridge Wallet",
+      "Ridge Wallet for MagSafe",
+      "Ridge KeyCase"
+    ],
+    "tiktokHandle": "ridge",
+    "tiktokVideos": [
+      {
+        "id": "7465444887450733867",
+        "url": "https://www.tiktok.com/@ridge/video/7465444887450733867",
+        "author": "ridge",
+        "title": "Snap. Secure. Go. 🔥 The Ridge MagSafe Wallet locks onto your phone with a strong magnetic grip and RFID-blocking prot..."
+      },
+      {
+        "id": "7449842321652321579",
+        "url": "https://www.tiktok.com/@ridge/video/7449842321652321579",
+        "author": "ridge",
+        "title": "“Streamline your everyday carry with the Ridge Wallet and KeyCase 🚀 Sleek, secure, and designed to keep up with your..."
+      },
+      {
+        "id": "7437226279566445867",
+        "url": "https://www.tiktok.com/@ridge/video/7437226279566445867",
+        "author": "ridge",
+        "title": "CLASSIC DESIGNS, MODERN SECURITY 🔒 Introducing our new refined Billfold and Bifold Ridge Wallets, designed for a mini..."
+      },
+      {
+        "id": "7402659682369785131",
+        "url": "https://www.tiktok.com/@ridge/video/7402659682369785131",
+        "author": "ridge",
+        "title": "Introducing Ridge Lite, ultra-small, highly functional, and designed for life! Holds 1-8 cards, can include an AirTag..."
+      },
+      {
+        "id": "7372299981417368874",
+        "url": "https://www.tiktok.com/@ridge/video/7372299981417368874",
+        "author": "ridge",
+        "title": "Sometimes we make wallets, sometimes we make catchy music, upgrade your wallet at Ridge.com #edc #edcgear #edccommuni..."
+      },
+      {
+        "id": "7549459221381745933",
+        "url": "https://www.tiktok.com/@tonytechbytes/video/7549459221381745933",
+        "author": "tonytechbytes",
+        "title": "Finally trying a @Ridge wallet! #ridgewallet #ridge #gifted #wallet #tonytechbytes"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0613/6213/files/Social_03_3.jpg?v=1766084911&width=1400",
+        "kind": "lifestyle",
+        "alt": "Basecamp Orange Ridge wallet, KeyCase and phone accessories flat lay on orange"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0613/6213/files/D_Hero_Center-Tile_1__TT.webp?width=1400",
+        "kind": "lifestyle",
+        "alt": "Burgundy Ridge MagSafe wallet and phone case on an iPhone (homepage hero)"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0613/6213/files/Gunmetal-Wallet-THUMBNAIL.jpg?v=1750191671&width=900",
+        "kind": "product",
+        "alt": "Ridge Wallet in Gunmetal aluminum"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0613/6213/files/BurntTI-Wallet-1-THUMBNAIL_23c427f2-7569-43f3-8bbd-745414f83146.jpg?v=1782485832&width=900",
+        "kind": "product",
+        "alt": "Ridge Wallet in Burnt Titanium"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0613/6213/files/ridge-wallet-for-magsafe-phantom-01_63c93807-70e5-4c6a-80f3-18a83bc5e46f.jpg?v=1788360558&width=900",
+        "kind": "product",
+        "alt": "Ridge Wallet for MagSafe in Phantom"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0613/6213/files/CF3K-Keycase-THUMBNAIL.jpg?v=1781556360&width=900",
+        "kind": "product",
+        "alt": "Ridge KeyCase in 3K Carbon Fiber"
+      }
+    ],
+    "logo": "https://cdn.shopify.com/s/files/1/0613/6213/files/ridge-favicon.svg?v=1779278981",
+    "colors": [
+      {
+        "hex": "#070A09",
+        "name": "Ridge Black"
+      },
+      {
+        "hex": "#ECEBE7",
+        "name": "Warm Stone"
+      },
+      {
+        "hex": "#949697",
+        "name": "Gunmetal Grey"
+      },
+      {
+        "hex": "#2932FC",
+        "name": "Electric Blue"
+      },
+      {
+        "hex": "#FFFFFF",
+        "name": "White"
+      }
+    ],
+    "fonts": [
+      "area-normal",
+      "apotek-extracond",
+      "Trade Gothic"
+    ]
+  },
+  {
+    "slug": "vuori",
+    "name": "Vuori",
+    "website": "https://vuoriclothing.com",
+    "tagline": "Vuori makes premium performance apparel and athleisure, including shorts, joggers, leggings and tops, for training and everyday wear.",
+    "products": [
+      "Kore Short",
+      "Sunday Performance Jogger",
+      "FormRefined Legging"
+    ],
+    "tiktokHandle": "vuoriclothing",
+    "tiktokVideos": [
+      {
+        "id": "7603423435242638605",
+        "url": "https://www.tiktok.com/@vuoriclothing/video/7603423435242638605",
+        "author": "vuoriclothing",
+        "title": "The work that matters demands something more. @Jack Draper in the Vuori HardKore Short, our most technical short ever..."
+      },
+      {
+        "id": "7531801893841014029",
+        "url": "https://www.tiktok.com/@vuoriclothing/video/7531801893841014029",
+        "author": "vuoriclothing",
+        "title": "Living in our Beach Fleece and Kore short this summer. @GavinCasalegno #gavincasalegno #thesummeriturnedpretty #teamj..."
+      },
+      {
+        "id": "7516967064486137119",
+        "url": "https://www.tiktok.com/@vuoriclothing/video/7516967064486137119",
+        "author": "vuoriclothing",
+        "title": "\"What I love most about Vuori is the fabric, the quality is better than anything I've ever seen and it's so soft. Any..."
+      },
+      {
+        "id": "7478108658153311531",
+        "url": "https://www.tiktok.com/@vuoriclothing/video/7478108658153311531",
+        "author": "vuoriclothing",
+        "title": "\"The softest performance tee you’ll ever wear. ✅ High-end softness with stretch ✅ Breathable & moisture-wicking for e..."
+      },
+      {
+        "id": "7568727788535008525",
+        "url": "https://www.tiktok.com/@vuoriclothing/video/7568727788535008525",
+        "author": "vuoriclothing",
+        "title": "\"@vuoriclothing just does it for me: effortless comfort and built to move! From post-run recovery to coastal coffee r..."
+      },
+      {
+        "id": "7538936844000496910",
+        "url": "https://www.tiktok.com/@vuoriclothing/video/7538936844000496910",
+        "author": "vuoriclothing",
+        "title": "\"Looking to upgrade your look? Check out these new arrivals from Vuori.\" -Brian Lim"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0022/4008/6074/collections/Ponto-Series-Collection-Banner-Desktop.jpg?width=1400",
+        "kind": "lifestyle",
+        "alt": "Man training in Vuori Ponto Series apparel (wide collection banner)"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/FA26_LOOK059_F_MATTHEW_SPROUT_MALLORCA_00042.jpg?width=1400",
+        "kind": "lifestyle",
+        "alt": "Woman in a brown Vuori set with cap and crossbody bag on a sunny balcony"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V302BLK_FA26_M_BOTTOMS_SIDE_3.png?width=900",
+        "kind": "product",
+        "alt": "Men's Kore Short in Black"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V416BLK_FA26_M_BOTTOMS_SIDE_3.png?width=900",
+        "kind": "product",
+        "alt": "Men's Sunday Performance Jogger in Black"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/VW4494FRS_FA26_W_BOTTOMS_FRONT_2.png?width=900",
+        "kind": "product",
+        "alt": "Women's FormRefined Legging in French Roast"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0022/4008/6074/files/V302BLK_SP24_M_ECOMM_SHORTS_PINUP_1.jpg?width=900",
+        "kind": "product",
+        "alt": "Kore Short in Black, flat pin-up shot"
+      }
+    ],
+    "logo": "https://vuoriclothing.com/vuori_gradient_logo.png",
+    "colors": [
+      {
+        "hex": "#333333",
+        "name": "Charcoal (wordmark)"
+      },
+      {
+        "hex": "#A4DEF9",
+        "name": "Sky Blue (logo gradient)"
+      },
+      {
+        "hex": "#29A8E0",
+        "name": "Ocean Blue (logo gradient)"
+      },
+      {
+        "hex": "#FAAF43",
+        "name": "Sunset Orange (logo gradient)"
+      },
+      {
+        "hex": "#F8EB30",
+        "name": "Sun Yellow (logo gradient)"
+      }
+    ],
+    "fonts": [
+      "aktiv-grotesk"
+    ]
+  },
+  {
+    "slug": "peak-design",
+    "name": "Peak Design",
+    "website": "https://www.peakdesign.com",
+    "tagline": "Peak Design creates modular camera bags, travel backpacks, tripods and mounting systems for photographers and travelers.",
+    "products": [
+      "Everyday Backpack",
+      "Travel Backpack 45L",
+      "Travel Tripod"
+    ],
+    "tiktokHandle": "peakdesign",
+    "tiktokVideos": [
+      {
+        "id": "7164521448944618798",
+        "url": "https://www.tiktok.com/@peakdesign/video/7164521448944618798",
+        "author": "peakdesign",
+        "title": "From day bag to \"great googly moogly that's a lot of stuff\" in the blink of an eye. The Travel Backpack 45L. #findyou..."
+      },
+      {
+        "id": "7192760871750520110",
+        "url": "https://www.tiktok.com/@peakdesign/video/7192760871750520110",
+        "author": "peakdesign",
+        "title": "pickpockets are famous for how well they listen so i think this should work #peakdesign #findyourpeak #travel #travel..."
+      },
+      {
+        "id": "7204153387313581355",
+        "url": "https://www.tiktok.com/@peakdesign/video/7204153387313581355",
+        "author": "peakdesign",
+        "title": "now that right there is what we call \"modularity,\" folks. join our SF Store Manager Alex to learn about floating pock..."
+      },
+      {
+        "id": "7186019672603528491",
+        "url": "https://www.tiktok.com/@peakdesign/video/7186019672603528491",
+        "author": "peakdesign",
+        "title": "A pretty package inside a pretty package. The Carbon Fiber Travel Tripod. #findyourpeak #peakdesign #everydaycarry #t..."
+      },
+      {
+        "id": "7520090426112544006",
+        "url": "https://www.tiktok.com/@patrickzhaoo/video/7520090426112544006",
+        "author": "patrickzhaoo",
+        "title": "People can’t believe how much this backpack actually fits. This is the Peak Design Travel Backpack 45L ✅ Fits over a..."
+      },
+      {
+        "id": "7228573495368699179",
+        "url": "https://www.tiktok.com/@iraymond.mercedes/video/7228573495368699179",
+        "author": "iraymond.mercedes",
+        "title": "This is Peak Design’s 45L Travel Backpack and I believe it is the most versatile camera bag currently available! Link..."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/1-LIGHTBOX-Case-iPhone-Lifestyle-SlimlinkTM-ecosystem_19d6d7fd-a773-4954-9545-f33941eef331.jpg?width=1400",
+        "kind": "lifestyle",
+        "alt": "iPhone in a Peak Design case, SlimLink mobile ecosystem lifestyle shot"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/outdoor-landscapes-sf_bbaaca8a-6c67-40a0-97cb-65b5d5be6075.jpg?width=1400",
+        "kind": "lifestyle",
+        "alt": "Wide panorama of the Golden Gate Bridge from a hilltop (site banner)"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/everyday-backpack-black-20-1.jpg?v=1762275581&width=900",
+        "kind": "product",
+        "alt": "Everyday Backpack 20L in Black"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/Travel-Backpack-45L-Ocean-1308.jpg?width=900",
+        "kind": "product",
+        "alt": "Travel Backpack 45L in Ocean"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/Tripod-Hero-Aluminum_b18688b2-387f-4aa5-9508-0c23fa69e0f8.jpg?v=1727455502&width=900",
+        "kind": "product",
+        "alt": "Travel Tripod, aluminum version"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/Tripod-Hero-Family.jpg?width=900",
+        "kind": "product",
+        "alt": "Travel Tripod product family hero shot"
+      }
+    ],
+    "logo": "https://cdn.shopify.com/s/files/1/2986/1172/files/pd_logo_white.png?v=1613649062",
+    "colors": [
+      {
+        "hex": "#000000",
+        "name": "Black"
+      },
+      {
+        "hex": "#15151A",
+        "name": "Midnight"
+      },
+      {
+        "hex": "#EEF1F0",
+        "name": "Fog"
+      },
+      {
+        "hex": "#EBFFA8",
+        "name": "Pale Lime"
+      },
+      {
+        "hex": "#DDF87E",
+        "name": "Lime Accent"
+      }
+    ],
+    "fonts": [
+      "Bryant",
+      "Geist",
+      "Exposure-10"
+    ]
+  },
+  {
+    "slug": "nomatic",
+    "name": "Nomatic",
+    "website": "https://www.nomatic.com",
+    "tagline": "Nomatic designs feature-packed travel backpacks, luggage, camera bags and packing accessories for work and travel.",
+    "products": [
+      "Travel Pack",
+      "Navigator Travel Backpack 32L",
+      "Carry-On Classic"
+    ],
+    "tiktokHandle": "nomaticgear",
+    "tiktokVideos": [
+      {
+        "id": "7312289529254219050",
+        "url": "https://www.tiktok.com/@nomaticgear/video/7312289529254219050",
+        "author": "nomaticgear",
+        "title": "When storage space is limited you need a backpack that can do it all. Our Travel Pack offers a variety of game-changi..."
+      },
+      {
+        "id": "7440252087759310123",
+        "url": "https://www.tiktok.com/@nomaticgear/video/7440252087759310123",
+        "author": "nomaticgear",
+        "title": "We threw our camera bag off a 4-story building!! 😱 Fun Fact: This bag is currently 20% off on our site! 👀 #nomatic #d..."
+      },
+      {
+        "id": "7291129177078549803",
+        "url": "https://www.tiktok.com/@nomaticgear/video/7291129177078549803",
+        "author": "nomaticgear",
+        "title": "How much lighter is the Navigator RS compared to the Original Navigator Collection??⚖️ #fyp #weightcomparison #compar..."
+      },
+      {
+        "id": "7129604810965372206",
+        "url": "https://www.tiktok.com/@nomaticgear/video/7129604810965372206",
+        "author": "nomaticgear",
+        "title": "The PM Sling x The PM 35L Bag, a seemless fit🔥"
+      },
+      {
+        "id": "7299825897341783301",
+        "url": "https://www.tiktok.com/@miguelberns/video/7299825897341783301",
+        "author": "miguelberns",
+        "title": "This is my ultimate travel backpack. #nomaticcreator @NOMATIC 14L travel pack. A lot of great features pack in this b..."
+      },
+      {
+        "id": "7509538552611376390",
+        "url": "https://www.tiktok.com/@enerico.jr/video/7509538552611376390",
+        "author": "enerico.jr",
+        "title": "Nomatic Carry-On Classic is probably my favorite combo for travelling with camera gears. While it stores most of my n..."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0745/1299/collections/Nomatic_30l_349_20190812.jpg?width=1400",
+        "kind": "lifestyle",
+        "alt": "Man stowing a black NOMATIC travel bag in an airplane overhead bin"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0745/1299/collections/Nomatic_Navigator_CarryOn37L_2635_20200227.jpg?width=1400",
+        "kind": "lifestyle",
+        "alt": "Person walking down a city street with a NOMATIC carry-on"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0745/1299/files/TRPK30-SLT-02_S26_SystemTRPK0012_jpg.png?v=1789407926&width=900",
+        "kind": "product",
+        "alt": "NOMATIC Travel Pack in Slate"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0745/1299/files/NVTP32-BLK-01_NavigatorTravelPack32L_NOMATIC_ECOMM__Black_Angle.png?v=1762198359&width=900",
+        "kind": "product",
+        "alt": "Navigator Travel Backpack 32L in Black, angle view"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0745/1299/files/RLCN00-BLK-01_Carry-OnClassic_BLACK_NOMATIC_ecomm_09.png?v=1772483416&width=900",
+        "kind": "product",
+        "alt": "Carry-On Classic hard-shell luggage in Black"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0745/1299/files/PMTP-00-BLK-01_McKinnonCameraPack35L_NOMATIC_ECOMM__LeftSide__noZipper.png?v=1762198199&width=900",
+        "kind": "product",
+        "alt": "McKinnon Camera Pack 35L in Black"
+      }
+    ],
+    "logo": "https://cdn.shopify.com/s/files/1/0745/1299/files/Nomatic_Black_Logo.png?v=1787617877",
+    "colors": [
+      {
+        "hex": "#070708",
+        "name": "Nomatic Black"
+      },
+      {
+        "hex": "#FDFDFD",
+        "name": "Off-White"
+      },
+      {
+        "hex": "#31BCF5",
+        "name": "Sky Blue (buttons)"
+      },
+      {
+        "hex": "#0984B7",
+        "name": "Deep Cyan (hover)"
+      },
+      {
+        "hex": "#E8E8E1",
+        "name": "Stone Border"
+      }
+    ],
+    "fonts": [
+      "Montserrat"
+    ]
+  },
+  {
+    "slug": "whoop",
+    "name": "WHOOP",
+    "website": "https://www.whoop.com",
+    "tagline": "WHOOP makes a screenless, membership-based wearable that tracks sleep, strain, recovery and other health metrics through its app.",
+    "products": [
+      "WHOOP 5.0",
+      "WHOOP MG",
+      "WHOOP Advanced Labs"
+    ],
+    "tiktokHandle": "whoop",
+    "tiktokVideos": [
+      {
+        "id": "7253813991623986475",
+        "url": "https://www.tiktok.com/@whoop/video/7253813991623986475",
+        "author": "whoop",
+        "title": "New band, who dis? Up your WHOOP game. #unlockyourself #WHOOP"
+      },
+      {
+        "id": "7407924439729392938",
+        "url": "https://www.tiktok.com/@whoop/video/7407924439729392938",
+        "author": "whoop",
+        "title": "When was the last time you cleaned your WHOOP? Our SportFlex bands make the job easy 💪 #WHOOP #UnlockYourself #Health..."
+      },
+      {
+        "id": "7521802130324213006",
+        "url": "https://www.tiktok.com/@whoop/video/7521802130324213006",
+        "author": "whoop",
+        "title": "Their WHOOP Age is WHAT? 😳👀 Drop yours in the comments ⬇️ #WHOOP #Fitness #Healthspan #Health #UnlockYourself"
+      },
+      {
+        "id": "7374804289593691438",
+        "url": "https://www.tiktok.com/@whoop/video/7374804289593691438",
+        "author": "whoop",
+        "title": "Mark gives us a behind the scenes look at how we desgin our WHOOP bands 💪 #WHOOP #UnlockYourself #OfficeLife #BehindT..."
+      },
+      {
+        "id": "7446428474459376938",
+        "url": "https://www.tiktok.com/@whoop/video/7446428474459376938",
+        "author": "whoop",
+        "title": "When joining WHOOP finally makes it out of the group chat 💪 #WHOOP #UnlockYourself #Health #Fitness"
+      },
+      {
+        "id": "7453156669590179114",
+        "url": "https://www.tiktok.com/@whoop/video/7453156669590179114",
+        "author": "whoop",
+        "title": "Did anyone else give or get a WHOOP this holiday season? 🎄🎁#WHOOP #unboxing #Health #Fitness #unlockyourself"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://images.ctfassets.net/rbzqg6pelgqa/6K70oWRw8UIS44y69Kg7sI/a4081bb2cc09ad1c4d04b17e41df905f/BIGGER_IMAGE.png?w=1600&fm=jpg",
+        "kind": "lifestyle",
+        "alt": "Man outdoors with hand on chest, wearing a WHOOP"
+      },
+      {
+        "url": "https://images.ctfassets.net/rbzqg6pelgqa/12sVzWrIWcEOi3ZBnqzhHq/e22a8b9d365ab8895b6f72395b15aba5/al-standalone-tile-customizable-wearable.jpg?w=1600",
+        "kind": "lifestyle",
+        "alt": "Three people wearing WHOOP in different band styles and colors"
+      },
+      {
+        "url": "https://images.ctfassets.net/rbzqg6pelgqa/5v0wxkkUugMG4xBsdx5mSJ/820386e4c88dea4182e204a278bce488/Peak__3_.png?w=1600",
+        "kind": "product",
+        "alt": "WHOOP 5.0 sensor on black band with battery pack"
+      },
+      {
+        "url": "https://images.ctfassets.net/rbzqg6pelgqa/5VtExrppdsJEB3ngRzcXLt/2a3b7028935bfff9459e0a4911f05571/Life__2_.png?w=1600",
+        "kind": "product",
+        "alt": "WHOOP MG sensor on band with battery pack"
+      },
+      {
+        "url": "https://images.ctfassets.net/rbzqg6pelgqa/42YRjzQiCPIqlHEGVcegri/aa58a198ded17454bbfb1b78ec2ca009/band.png?w=1600",
+        "kind": "product",
+        "alt": "WHOOP sensor on a light-blue knit band"
+      },
+      {
+        "url": "https://images.ctfassets.net/rbzqg6pelgqa/6urASW2zH71MKmBlM349Mw/4b6a9796aa663b40919d5726b56180bb/Peak_what-s_in_the_box.png?w=1600",
+        "kind": "product",
+        "alt": "What's in the box: WHOOP band, battery pack and app"
+      }
+    ],
+    "logo": "https://developer.whoop.com/img/logo.svg",
+    "colors": [
+      {
+        "hex": "#000000",
+        "name": "WHOOP Black"
+      },
+      {
+        "hex": "#FFFFFF",
+        "name": "White"
+      },
+      {
+        "hex": "#0093E7",
+        "name": "Strain Blue"
+      },
+      {
+        "hex": "#19EC06",
+        "name": "Recovery Green"
+      },
+      {
+        "hex": "#FFDE00",
+        "name": "Recovery Yellow"
+      }
+    ],
+    "fonts": [
+      "proxima-nova",
+      "Readex Pro",
+      "DIN Pro"
+    ]
+  }
+]
